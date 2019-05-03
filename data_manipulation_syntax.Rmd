@@ -101,10 +101,11 @@ slice(TRAIN, 1:5)
 TRAIN %>% slice(1:5)
 ```
 
+
 Subset rows / filter(logical_condition)
 
 ```{r}
-### Base R - select cases from 2018 with less than 2% training
+### Base R - select cases from 2018 with more than 30% training
 TRAIN[TRAIN$Value>30 & TRAIN$TIME == 2018,]
 
 ### dplyr
@@ -296,7 +297,7 @@ What is the country with the highest average training level?
 ## Reshape datasets
 
 Separate columns
-In EMP, var geo contains both country and region
+In EMP, var geo contains both country and region.
 
 ```{r}
 EMP2 = EMP %>% separate(geo, into = c("COUNTRY","region"), sep="_")
@@ -317,8 +318,8 @@ EMP_LONG = EMP2 %>%
 EMP_LONG
 ```
 
-From long to wide format
-Useful to create crosstabs 
+From long to wide format.
+Useful to create crosstabs. For example, put gender as columns. 
 
 ```{r}
 # you should keep only the necessary variables
@@ -329,7 +330,6 @@ TRAIN %>% select(TIME, COUNTRY, SEX, Value) %>%
 
 ## Combine/merge datasets
 
-We want to add 
 First let us select only the important variables from both datasets
 
 ```{r}
@@ -341,19 +341,15 @@ EMP_2018
 TRAIN_2018
 ```
 
-Inner join keeps values from both data sets
-
-```{r}
-LEFT_UNITE = left_join(EMP_2018, TRAIN_2018) %>% 
-             mutate_if(is.character, as.factor)
-summary(LEFT_UNITE)
-```
 
 Inner join keeps values that appear in both data frames
+EMP is at regional level, TRAIN at country level.
 ```{r}
 INNER_UNITE = inner_join(EMP_2018, TRAIN_2018) %>% 
-             mutate_if(is.character, as.factor)
+              mutate_if(is.character, as.factor) %>% 
+              filter(complete.cases(.))
 summary(INNER_UNITE)
+INNER_UNITE
 ```
 
 
@@ -362,6 +358,7 @@ summary(INNER_UNITE)
 ```{r}
 library(ggplot2)
 INNER_UNITE %>% 
-  ggplot(aes(x = training_perc, y = empl_perc)) + 
-    geom_text(aes(label = COUNTRY))
+  ggplot(aes(x = training_perc, y = empl_perc, col = COUNTRY)) + 
+    geom_text(aes(label = COUNTRY)) + geom_smooth(aes(col = NULL), alpha = 0, col = "black") +
+    guides(col = "none") 
 ```

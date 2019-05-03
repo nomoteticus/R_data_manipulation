@@ -121,7 +121,8 @@ TRAIN %>% filter(grepl("^C",GEO))
 TRAIN %>% filter(GEO %in% c("Slovakia","Slovenia"))
 ```
 
-EXERCISE: select only data from 2018 and 2019 from Romania - total and save in new variable FILT
+EXERCISE: select only data from 2018 and 2019 from Romania - 
+total and save in new variable FILT
 ```{r}
 #FILT = TRAIN %>% filter(insert_conditions_here)
 ```
@@ -221,7 +222,8 @@ EXERCISE:
 Use the piping operator and dplyr functions to
 select from EMP the following variables: sex, geo and Y2017 and Y2018,
 filter only cases from Austria, 
-create new variable eployment_change as the difference between employment rates in 2018 and 2017
+create new variable eployment_change as the difference between 
+employment rates in 2018 and 2017
 and save in new data frame called NEW
 ```{r}
 #NEW = TRAIN %>% add_code_here
@@ -302,7 +304,7 @@ EMP2
 ```
 
 From wide to long format
-Gather all Y variables
+Gather all Y variables in EMP
 
 ```{r}
 # give new names for key and value
@@ -327,17 +329,19 @@ TRAIN %>% select(TIME, COUNTRY, SEX, Value) %>%
 
 ## Combine/merge datasets
 
-First let us bring the datasets at the same level
+We want to add 
+First let us select only the important variables from both datasets
 
 ```{r}
-EMP_2018 = EMP_LONG %>% filter(year == 2018, sex == "T") %>% select(COUNTRY, region, empl_perc = perc)
-TRAIN_2018 = TRAIN %>% filter(SEX == "Total", TIME == 2018) %>% select(COUNTRY, training_perc = Value)
+EMP_2018 = EMP_LONG %>% filter(year == 2018, sex == "T") %>% 
+                        select(COUNTRY, region, empl_perc = perc)
+TRAIN_2018 = TRAIN %>% filter(SEX == "Total", TIME == 2018) %>% 
+                       select(COUNTRY, training_perc = Value)
 EMP_2018 
 TRAIN_2018
 ```
 
-Left join keeps all values in data frame on the left
-
+Inner join keeps values from both data sets
 
 ```{r}
 LEFT_UNITE = left_join(EMP_2018, TRAIN_2018) %>% 
@@ -353,8 +357,11 @@ summary(INNER_UNITE)
 ```
 
 
-## Your data here
+## finally plotting the data
 
 ```{r}
-
+library(ggplot2)
+INNER_UNITE %>% 
+  ggplot(aes(x = training_perc, y = empl_perc)) + 
+    geom_text(aes(label = COUNTRY))
 ```

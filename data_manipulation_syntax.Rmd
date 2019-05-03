@@ -1,0 +1,243 @@
+---
+title: "Data Manipulation Tutorial - Datafest 2019"
+author: "Vlad Achimescu"
+date: "May 3, 2019"
+output: html_document
+---
+
+## LOAD PACKAGES
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(readr)
+library(magrittr)
+library(dplyr)
+library(tidyr)
+```
+
+## CHAINING FUNCTIONS - PIPE OPERATOR
+
+Pipe operator simplifies reading and writing chained functions.
+Shortcut for pipe operator "%>%" is <Ctrl+Shift+M>.
+If previous value is not used as a first argument, but later, use "." to specify the position
+
+Example: summarise unemployment rate in 2018
+
+```{r}
+# Extract unemployment rates
+unempl2018  = 100-EMP$`2018`
+summary(unempl2018)
+
+# Base R - chaining
+paste("Result:", round(quantile(log(unempl2018,2),.25, na.rm = TRUE), 1))
+      
+# Base R - separate operations
+log_unempl   = log(unempl2018,2)
+quant_unempl = quantile(log_unempl, .25, na.rm = TRUE)
+round_quant = round(quant_unempl, 1)
+paste("Result:", round_quant)
+
+# Magrittr - chaining using pipe
+unempl2018 %>% 
+  log(2) %>% 
+  quantile(.25, na.rm = TRUE) %>% 
+  round(1) %>% 
+  paste("Result:",.)
+
+# Magrittr - one line
+unempl2018 %>% log(2) %>% quantile(.25, na.rm = TRUE) %>% round(1) %>% paste("Result:",.)
+```
+
+Create a table of relative frequencies, sorted by descending:
+```{r}
+table(TRAIN$SEX)
+#Base R:
+
+cbind(round(rev(sort(prop.table(table(TRAIN$SEX)))),2))
+```
+
+```{r}
+### additional functions (aliases) useful for piping
+?magrittr::extract
+```
+
+
+## IMPORT DATA
+
+Read data as a tibble, using read_csv or read_tsv.
+
+```{r cars}
+EMP = read_tsv("empl_rates_reg.tsv")
+EMP
+```
+
+```{r}
+TRAIN = read_csv("training_participation.csv")
+TRAIN
+```
+
+## Slice and filter
+
+Slice
+
+```{r pressure, echo=FALSE}
+# Base R
+TRAIN[1:5,]
+
+# dplyr
+slice(TRAIN, 1:5)
+
+# With piping
+TRAIN %>% slice(1:5)
+```
+
+Subset rows / filter(logical_condition)
+
+```{r}
+### Base R - select cases from 2018 with less than 2% training
+TRAIN[TRAIN$Value>30 & TRAIN$TIME == 2018,]
+
+### dplyr
+TRAIN %>% filter(Value>30, TIME == 2018)
+```
+
+Filter by strings - regular expressions / sets
+
+```{r}
+### Select all countries starting with the letter "C"
+TRAIN %>% filter(grepl("^C",GEO))
+
+### Select Slovakia and Slovenia
+TRAIN %>% filter(GEO %in% c("Slovakia","Slovenia"))
+```
+
+EXERCISE: select
+```{r}
+TRAIN %>% filter()
+```
+
+## Subset variables/columns - select
+
+Select function makes code similar to Stata
+
+```{r}
+### Base R - select first three variables
+EMP[,1:3]
+EMP[,c("unit", "sex", "age" )]
+
+### dplyr
+EMP %>% select(1:3)
+EMP %>% select("unit", "sex", "age")
+EMP %>% select(unit, sex, age)
+EMP %>% select(unit:age)
+```
+
+```{r}
+### select by skipping
+EMP %>% select(geo, age, sex, Y2016:Y2018)
+
+### unselect
+EMP %>% select(-unit)
+
+### select by variable name
+EMP %>% select(starts_with("Y"))
+```
+
+EXERCISE: select 
+
+```{r}
+TRAIN %>% select()
+```
+
+
+## Create new variables / mutate, transmute
+
+```{r}
+### Base R
+TRAIN$low = TRAIN$Value<10
+
+### dplyr
+TRAIN %>% mutate(low = Value<10)
+```
+
+Mutate keeps all variables, transmute only keeps new variables
+
+```{r}
+### mutate
+TRAIN %>% mutate(low = Value<10,
+                 cumval = cumsum(Value),
+                 period = ifelse(TIME<2010, "before 2010","2010 or after"))
+
+### transmute
+TRAIN %>% transmute(GEO,
+                    low = Value<10,
+                    cumval = cumsum(Value),
+                    period = ifelse(TIME<2010, "before 2010","2010 or after"))
+
+### can use window functions in : lag, cumsum, min_rank, etc. (see cheat sheet)
+```
+
+
+Mutate specific variables with mutate_if and mutate_at
+
+```{r}
+### Change variables that follow a certain condition
+## mutate_if(condition, function)
+# e.g.make all strings into factors
+TRAIN %>% mutate_if(is.character, as.factor)
+
+### Change specific variables
+## mutate_at(vars(), funs())
+# e.g. round all Y variables
+EMP %>% mutate_at(vars(Y2007:Y2018), funs(as.numeric)) %>%
+        mutate_at(vars(Y2007:Y2018), funs(round))
+```
+
+
+Mutate_all replaces sapply or tapply
+
+```{r}
+### apply same functions to all variables
+
+## apply predefined function
+TRAIN %>% mutate_all(nchar)
+## apply custom function
+TRAIN %>% mutate_all(function(x) paste0(x,"_suffix"))
+```
+
+
+## Aggregate data
+
+```{r}
+
+```
+
+## Reshape datasets
+
+From wide to long format
+
+```{r}
+
+```
+
+From wide to long format
+
+Separate 
+
+```{r}
+
+```
+
+## Combine/merge datasets
+
+Similar to SQL functions
+
+```{r}
+
+```
+
+## All-in-one pipe
+
+```{r}
+
+```

@@ -9,11 +9,34 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+# install.packages(c("readr","magrittr","dplyr","tidyr"))
+### load packages
 library(readr)
 library(magrittr)
 library(dplyr)
 library(tidyr)
+### make sure filter and select are assigned to dplly
+filter = dplyr::filter
+select = dplyr::select
 ```
+
+
+## IMPORT DATA
+
+Read data as a tibble, using read_csv or read_tsv.
+
+Read employment dataset
+```{r cars}
+EMP = read_tsv("empl_rates_reg.tsv")
+EMP
+```
+
+Read education&training dataset
+```{r}
+TRAIN = read_csv("training_participation.csv")
+TRAIN
+```
+
 
 ## CHAINING FUNCTIONS - PIPE OPERATOR
 

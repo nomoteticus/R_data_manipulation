@@ -2,11 +2,20 @@ presentation
 ========================================================
 author: 
 date: 
-autosize: true
+autosize: false
+css: presstyle.css
 
-First Slide
+
+Principles of tidy data
+========================================================
+<hr>
+![tidy data](img/01_tidy_data.png)
+<small><i>(Wickham & Grolemund)</i></small>
+
+Tidy datasets
 ========================================================
 
+<small>
 Untidy 
 <table>
   <tr>
@@ -41,6 +50,64 @@ Untidy
   </tr>
 </table>
 
+- Same observation in diff. lines
+- No unique measurement in cols
+- Strings and numeric in same col
+- 2 values in one cell
+
+</table>
+</small>
+
+***
+
+-
+
+
+Tidy datasets
+========================================================
+
+<small>
+Untidy 
+<table>
+  <tr>
+    <th><br>id</th>
+    <th>var</th>
+    <th>val_jan</th>
+    <th>val_aug<br></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>City</td>
+    <td>Mannheim</td>
+    <td>Mannheim</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>temperature</td>
+    <td>5C / 41F<br></td>
+    <td>30C / 86F</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>City</td>
+    <td>Hamburg</td>
+    <td>Hamburg</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>temperature</td>
+    <td>-5C / 23F</td>
+    <td>25C / 77F</td>
+  </tr>
+</table>
+
+- Same observation in diff. lines
+- No unique measurement in cols
+- Strings and numeric in same col
+- 2 values in one cell
+
+***
+
 Tidy
 <table>
   <tr>
@@ -58,21 +125,21 @@ Tidy
     <td>41</td>
   </tr>
   <tr>
-    <td>1</td>
+    <td>2</td>
     <td>Mannheim</td>
     <td>aug</td>
     <td>25</td>
     <td>77</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>3</td>
     <td>Hamburg</td>
     <td>jan</td>
     <td>-5</td>
     <td>23</td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>4</td>
     <td>Hamburg</td>
     <td>aug</td>
     <td>25</td>
@@ -80,25 +147,65 @@ Tidy
   </tr>
 </table>
 
-Slide With Code
+- Every line is one case
+- Every column is one variable
+- Can summarise columns
+- Cells are values
+</small>
+
+
+
+Load data 
 ========================================================
+class: at75
+<hr>
+
+- <i>readr</i> reads file as tibbles
+- tibbles = enhanced data frames
+  - more classes for columns
+  - look nicer when printed
 
 
 ```r
-summary(cars)
+library(readr)
+read_csv(filename)
+read_tsv(filename)
+read_delim(filename, 
+           sep = "char")
 ```
+---
 
-```
-     speed           dist       
- Min.   : 4.0   Min.   :  2.00  
- 1st Qu.:12.0   1st Qu.: 26.00  
- Median :15.0   Median : 36.00  
- Mean   :15.4   Mean   : 42.98  
- 3rd Qu.:19.0   3rd Qu.: 56.00  
- Max.   :25.0   Max.   :120.00  
-```
+Two datasets:
+- <b>EMPL</b>: Employment rate of the age group 15-64 by NUTS 2 regions [tgs00007] <br> (% employed in each region) <br> <i>file: empl_rates_reg.tsv</i>
+- <b>TRAIN</b>: Adult participation in learning by sex [sdg_04_60]<br> (% of population aged 25 to 64) <br> <i>file: traing_participation.csv</i>
+- https://ec.europa.eu/eurostat/data/database
 
-Slide With Plot
+Pipe operator
 ========================================================
 
-![plot of chunk unnamed-chunk-2](presentation-figure/unnamed-chunk-2-1.png)
+
+```
+[1] 5
+```
+
+SUBSETTING ROWS / FILTER
+========================================================
+<hr>
+![tidy data](img/00_filter.png)
+
+
+SUBSETTING COLUMNS / SELECT
+========================================================
+<hr>
+<large>
+![tidy data](img/00_select.png)
+</large>
+
+SLIDE
+========================================================
+<hr>
+
+
+SLIDE
+========================================================
+<hr>

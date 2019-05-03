@@ -1,1141 +1,1141 @@
-"TIME","GEO","UNIT","SEX","AGE","Value","Flag and Footnotes"
-"2009","European Union - 28 countries","Percentage","Total","From 25 to 64 years","9.5",""
-"2009","European Union - 28 countries","Percentage","Males","From 25 to 64 years","8.6",""
-"2009","European Union - 28 countries","Percentage","Females","From 25 to 64 years","10.4",""
-"2009","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","10.9",""
-"2009","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","9.9",""
-"2009","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","12.0",""
-"2009","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","8.1",""
-"2009","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","7.7",""
-"2009","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","8.6",""
-"2009","Belgium","Percentage","Total","From 25 to 64 years","7.1",""
-"2009","Belgium","Percentage","Males","From 25 to 64 years","6.6",""
-"2009","Belgium","Percentage","Females","From 25 to 64 years","7.5",""
-"2009","Bulgaria","Percentage","Total","From 25 to 64 years","1.6",""
-"2009","Bulgaria","Percentage","Males","From 25 to 64 years","1.4",""
-"2009","Bulgaria","Percentage","Females","From 25 to 64 years","1.7",""
-"2009","Czechia","Percentage","Total","From 25 to 64 years","7.1",""
-"2009","Czechia","Percentage","Males","From 25 to 64 years","6.9",""
-"2009","Czechia","Percentage","Females","From 25 to 64 years","7.3",""
-"2009","Denmark","Percentage","Total","From 25 to 64 years","31.3",""
-"2009","Denmark","Percentage","Males","From 25 to 64 years","25.3",""
-"2009","Denmark","Percentage","Females","From 25 to 64 years","37.3",""
-"2009","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","8.0",""
-"2009","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.1",""
-"2009","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","7.9",""
-"2009","Estonia","Percentage","Total","From 25 to 64 years","10.5","b"
-"2009","Estonia","Percentage","Males","From 25 to 64 years","7.5","b"
-"2009","Estonia","Percentage","Females","From 25 to 64 years","13.3","b"
-"2009","Ireland","Percentage","Total","From 25 to 64 years","6.6",""
-"2009","Ireland","Percentage","Males","From 25 to 64 years","6.0",""
-"2009","Ireland","Percentage","Females","From 25 to 64 years","7.3",""
-"2009","Greece","Percentage","Total","From 25 to 64 years","3.5","b"
-"2009","Greece","Percentage","Males","From 25 to 64 years","3.5","b"
-"2009","Greece","Percentage","Females","From 25 to 64 years","3.5","b"
-"2009","Spain","Percentage","Total","From 25 to 64 years","10.8",""
-"2009","Spain","Percentage","Males","From 25 to 64 years","9.8",""
-"2009","Spain","Percentage","Females","From 25 to 64 years","11.8",""
-"2009","France","Percentage","Total","From 25 to 64 years","5.7",""
-"2009","France","Percentage","Males","From 25 to 64 years","5.2",""
-"2009","France","Percentage","Females","From 25 to 64 years","6.1",""
-"2009","Croatia","Percentage","Total","From 25 to 64 years","3.0",""
-"2009","Croatia","Percentage","Males","From 25 to 64 years","3.2",""
-"2009","Croatia","Percentage","Females","From 25 to 64 years","2.9",""
-"2009","Italy","Percentage","Total","From 25 to 64 years","6.0",""
-"2009","Italy","Percentage","Males","From 25 to 64 years","5.7",""
-"2009","Italy","Percentage","Females","From 25 to 64 years","6.4",""
-"2009","Cyprus","Percentage","Total","From 25 to 64 years","8.3","b"
-"2009","Cyprus","Percentage","Males","From 25 to 64 years","8.4","b"
-"2009","Cyprus","Percentage","Females","From 25 to 64 years","8.2","b"
-"2009","Latvia","Percentage","Total","From 25 to 64 years","5.6",""
-"2009","Latvia","Percentage","Males","From 25 to 64 years","3.7",""
-"2009","Latvia","Percentage","Females","From 25 to 64 years","7.3",""
-"2009","Lithuania","Percentage","Total","From 25 to 64 years","4.6",""
-"2009","Lithuania","Percentage","Males","From 25 to 64 years","3.7",""
-"2009","Lithuania","Percentage","Females","From 25 to 64 years","5.5",""
-"2009","Luxembourg","Percentage","Total","From 25 to 64 years","13.8","b"
-"2009","Luxembourg","Percentage","Males","From 25 to 64 years","13.8","b"
-"2009","Luxembourg","Percentage","Females","From 25 to 64 years","13.7","b"
-"2009","Hungary","Percentage","Total","From 25 to 64 years","3.0",""
-"2009","Hungary","Percentage","Males","From 25 to 64 years","2.7",""
-"2009","Hungary","Percentage","Females","From 25 to 64 years","3.4",""
-"2009","Malta","Percentage","Total","From 25 to 64 years","6.2",""
-"2009","Malta","Percentage","Males","From 25 to 64 years","6.1",""
-"2009","Malta","Percentage","Females","From 25 to 64 years","6.4",""
-"2009","Netherlands","Percentage","Total","From 25 to 64 years","17.1",""
-"2009","Netherlands","Percentage","Males","From 25 to 64 years","16.5",""
-"2009","Netherlands","Percentage","Females","From 25 to 64 years","17.6",""
-"2009","Austria","Percentage","Total","From 25 to 64 years","13.9",""
-"2009","Austria","Percentage","Males","From 25 to 64 years","12.9",""
-"2009","Austria","Percentage","Females","From 25 to 64 years","14.9",""
-"2009","Poland","Percentage","Total","From 25 to 64 years","4.7",""
-"2009","Poland","Percentage","Males","From 25 to 64 years","4.3",""
-"2009","Poland","Percentage","Females","From 25 to 64 years","5.1",""
-"2009","Portugal","Percentage","Total","From 25 to 64 years","6.4",""
-"2009","Portugal","Percentage","Males","From 25 to 64 years","6.0",""
-"2009","Portugal","Percentage","Females","From 25 to 64 years","6.8",""
-"2009","Romania","Percentage","Total","From 25 to 64 years","1.8",""
-"2009","Romania","Percentage","Males","From 25 to 64 years","1.6",""
-"2009","Romania","Percentage","Females","From 25 to 64 years","1.9",""
-"2009","Slovenia","Percentage","Total","From 25 to 64 years","14.8",""
-"2009","Slovenia","Percentage","Males","From 25 to 64 years","13.1",""
-"2009","Slovenia","Percentage","Females","From 25 to 64 years","16.6",""
-"2009","Slovakia","Percentage","Total","From 25 to 64 years","3.1",""
-"2009","Slovakia","Percentage","Males","From 25 to 64 years","2.5",""
-"2009","Slovakia","Percentage","Females","From 25 to 64 years","3.7",""
-"2009","Finland","Percentage","Total","From 25 to 64 years","22.1",""
-"2009","Finland","Percentage","Males","From 25 to 64 years","18.5",""
-"2009","Finland","Percentage","Females","From 25 to 64 years","25.9",""
-"2009","Sweden","Percentage","Total","From 25 to 64 years","22.5",""
-"2009","Sweden","Percentage","Males","From 25 to 64 years","16.3",""
-"2009","Sweden","Percentage","Females","From 25 to 64 years","28.8",""
-"2009","United Kingdom","Percentage","Total","From 25 to 64 years","20.7",""
-"2009","United Kingdom","Percentage","Males","From 25 to 64 years","17.2",""
-"2009","United Kingdom","Percentage","Females","From 25 to 64 years","24.1",""
-"2009","Iceland","Percentage","Total","From 25 to 64 years","25.1","b"
-"2009","Iceland","Percentage","Males","From 25 to 64 years","20.4","b"
-"2009","Iceland","Percentage","Females","From 25 to 64 years","30.1","b"
-"2009","Norway","Percentage","Total","From 25 to 64 years","18.5",""
-"2009","Norway","Percentage","Males","From 25 to 64 years","17.1",""
-"2009","Norway","Percentage","Females","From 25 to 64 years","20.0",""
-"2009","Switzerland","Percentage","Total","From 25 to 64 years","23.9",""
-"2009","Switzerland","Percentage","Males","From 25 to 64 years","22.8",""
-"2009","Switzerland","Percentage","Females","From 25 to 64 years","25.0",""
-"2009","Montenegro","Percentage","Total","From 25 to 64 years","",""
-"2009","Montenegro","Percentage","Males","From 25 to 64 years","",""
-"2009","Montenegro","Percentage","Females","From 25 to 64 years","",""
-"2009","North Macedonia","Percentage","Total","From 25 to 64 years","3.5",""
-"2009","North Macedonia","Percentage","Males","From 25 to 64 years","3.5",""
-"2009","North Macedonia","Percentage","Females","From 25 to 64 years","3.5",""
-"2009","Serbia","Percentage","Total","From 25 to 64 years","",""
-"2009","Serbia","Percentage","Males","From 25 to 64 years","",""
-"2009","Serbia","Percentage","Females","From 25 to 64 years","",""
-"2009","Turkey","Percentage","Total","From 25 to 64 years","2.6",""
-"2009","Turkey","Percentage","Males","From 25 to 64 years","2.8",""
-"2009","Turkey","Percentage","Females","From 25 to 64 years","2.4",""
-"2010","European Union - 28 countries","Percentage","Total","From 25 to 64 years","9.3",""
-"2010","European Union - 28 countries","Percentage","Males","From 25 to 64 years","8.4",""
-"2010","European Union - 28 countries","Percentage","Females","From 25 to 64 years","10.2",""
-"2010","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","10.7",""
-"2010","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","9.6",""
-"2010","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","11.7",""
-"2010","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","8.1",""
-"2010","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","7.6",""
-"2010","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","8.5",""
-"2010","Belgium","Percentage","Total","From 25 to 64 years","7.4",""
-"2010","Belgium","Percentage","Males","From 25 to 64 years","7.2",""
-"2010","Belgium","Percentage","Females","From 25 to 64 years","7.6",""
-"2010","Bulgaria","Percentage","Total","From 25 to 64 years","1.6",""
-"2010","Bulgaria","Percentage","Males","From 25 to 64 years","1.5",""
-"2010","Bulgaria","Percentage","Females","From 25 to 64 years","1.7",""
-"2010","Czechia","Percentage","Total","From 25 to 64 years","7.8",""
-"2010","Czechia","Percentage","Males","From 25 to 64 years","7.6",""
-"2010","Czechia","Percentage","Females","From 25 to 64 years","8.0",""
-"2010","Denmark","Percentage","Total","From 25 to 64 years","32.6",""
-"2010","Denmark","Percentage","Males","From 25 to 64 years","26.0",""
-"2010","Denmark","Percentage","Females","From 25 to 64 years","39.2",""
-"2010","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","7.8","b"
-"2010","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","7.9","b"
-"2010","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","7.7","b"
-"2010","Estonia","Percentage","Total","From 25 to 64 years","11.0",""
-"2010","Estonia","Percentage","Males","From 25 to 64 years","8.6",""
-"2010","Estonia","Percentage","Females","From 25 to 64 years","13.1",""
-"2010","Ireland","Percentage","Total","From 25 to 64 years","7.1",""
-"2010","Ireland","Percentage","Males","From 25 to 64 years","6.8",""
-"2010","Ireland","Percentage","Females","From 25 to 64 years","7.5",""
-"2010","Greece","Percentage","Total","From 25 to 64 years","3.3",""
-"2010","Greece","Percentage","Males","From 25 to 64 years","3.4",""
-"2010","Greece","Percentage","Females","From 25 to 64 years","3.2",""
-"2010","Spain","Percentage","Total","From 25 to 64 years","11.2",""
-"2010","Spain","Percentage","Males","From 25 to 64 years","10.3",""
-"2010","Spain","Percentage","Females","From 25 to 64 years","12.1",""
-"2010","France","Percentage","Total","From 25 to 64 years","5.0",""
-"2010","France","Percentage","Males","From 25 to 64 years","4.5",""
-"2010","France","Percentage","Females","From 25 to 64 years","5.4",""
-"2010","Croatia","Percentage","Total","From 25 to 64 years","3.0",""
-"2010","Croatia","Percentage","Males","From 25 to 64 years","3.0",""
-"2010","Croatia","Percentage","Females","From 25 to 64 years","3.0",""
-"2010","Italy","Percentage","Total","From 25 to 64 years","6.2",""
-"2010","Italy","Percentage","Males","From 25 to 64 years","5.9",""
-"2010","Italy","Percentage","Females","From 25 to 64 years","6.5",""
-"2010","Cyprus","Percentage","Total","From 25 to 64 years","8.1",""
-"2010","Cyprus","Percentage","Males","From 25 to 64 years","7.9",""
-"2010","Cyprus","Percentage","Females","From 25 to 64 years","8.2",""
-"2010","Latvia","Percentage","Total","From 25 to 64 years","5.4",""
-"2010","Latvia","Percentage","Males","From 25 to 64 years","3.6",""
-"2010","Latvia","Percentage","Females","From 25 to 64 years","7.0",""
-"2010","Lithuania","Percentage","Total","From 25 to 64 years","4.4",""
-"2010","Lithuania","Percentage","Males","From 25 to 64 years","3.5",""
-"2010","Lithuania","Percentage","Females","From 25 to 64 years","5.2",""
-"2010","Luxembourg","Percentage","Total","From 25 to 64 years","13.5",""
-"2010","Luxembourg","Percentage","Males","From 25 to 64 years","12.9",""
-"2010","Luxembourg","Percentage","Females","From 25 to 64 years","14.2",""
-"2010","Hungary","Percentage","Total","From 25 to 64 years","3.0",""
-"2010","Hungary","Percentage","Males","From 25 to 64 years","2.9",""
-"2010","Hungary","Percentage","Females","From 25 to 64 years","3.1",""
-"2010","Malta","Percentage","Total","From 25 to 64 years","6.2",""
-"2010","Malta","Percentage","Males","From 25 to 64 years","5.9",""
-"2010","Malta","Percentage","Females","From 25 to 64 years","6.4",""
-"2010","Netherlands","Percentage","Total","From 25 to 64 years","17.0",""
-"2010","Netherlands","Percentage","Males","From 25 to 64 years","16.4",""
-"2010","Netherlands","Percentage","Females","From 25 to 64 years","17.7",""
-"2010","Austria","Percentage","Total","From 25 to 64 years","13.8",""
-"2010","Austria","Percentage","Males","From 25 to 64 years","12.8",""
-"2010","Austria","Percentage","Females","From 25 to 64 years","14.9",""
-"2010","Poland","Percentage","Total","From 25 to 64 years","5.2","b"
-"2010","Poland","Percentage","Males","From 25 to 64 years","4.7","b"
-"2010","Poland","Percentage","Females","From 25 to 64 years","5.7","b"
-"2010","Portugal","Percentage","Total","From 25 to 64 years","5.7",""
-"2010","Portugal","Percentage","Males","From 25 to 64 years","5.7",""
-"2010","Portugal","Percentage","Females","From 25 to 64 years","5.7",""
-"2010","Romania","Percentage","Total","From 25 to 64 years","1.4","b"
-"2010","Romania","Percentage","Males","From 25 to 64 years","1.3","b"
-"2010","Romania","Percentage","Females","From 25 to 64 years","1.4","b"
-"2010","Slovenia","Percentage","Total","From 25 to 64 years","16.4",""
-"2010","Slovenia","Percentage","Males","From 25 to 64 years","14.3",""
-"2010","Slovenia","Percentage","Females","From 25 to 64 years","18.5",""
-"2010","Slovakia","Percentage","Total","From 25 to 64 years","3.1",""
-"2010","Slovakia","Percentage","Males","From 25 to 64 years","2.5",""
-"2010","Slovakia","Percentage","Females","From 25 to 64 years","3.7",""
-"2010","Finland","Percentage","Total","From 25 to 64 years","23.0",""
-"2010","Finland","Percentage","Males","From 25 to 64 years","18.9",""
-"2010","Finland","Percentage","Females","From 25 to 64 years","27.1",""
-"2010","Sweden","Percentage","Total","From 25 to 64 years","24.7",""
-"2010","Sweden","Percentage","Males","From 25 to 64 years","18.3",""
-"2010","Sweden","Percentage","Females","From 25 to 64 years","31.3",""
-"2010","United Kingdom","Percentage","Total","From 25 to 64 years","20.1",""
-"2010","United Kingdom","Percentage","Males","From 25 to 64 years","16.9",""
-"2010","United Kingdom","Percentage","Females","From 25 to 64 years","23.3",""
-"2010","Iceland","Percentage","Total","From 25 to 64 years","25.4",""
-"2010","Iceland","Percentage","Males","From 25 to 64 years","21.3",""
-"2010","Iceland","Percentage","Females","From 25 to 64 years","29.6",""
-"2010","Norway","Percentage","Total","From 25 to 64 years","18.2",""
-"2010","Norway","Percentage","Males","From 25 to 64 years","16.7",""
-"2010","Norway","Percentage","Females","From 25 to 64 years","19.8",""
-"2010","Switzerland","Percentage","Total","From 25 to 64 years","29.7","b"
-"2010","Switzerland","Percentage","Males","From 25 to 64 years","30.6","b"
-"2010","Switzerland","Percentage","Females","From 25 to 64 years","28.8","b"
-"2010","Montenegro","Percentage","Total","From 25 to 64 years","",""
-"2010","Montenegro","Percentage","Males","From 25 to 64 years","",""
-"2010","Montenegro","Percentage","Females","From 25 to 64 years","",""
-"2010","North Macedonia","Percentage","Total","From 25 to 64 years","3.5",""
-"2010","North Macedonia","Percentage","Males","From 25 to 64 years","3.4",""
-"2010","North Macedonia","Percentage","Females","From 25 to 64 years","3.6",""
-"2010","Serbia","Percentage","Total","From 25 to 64 years","4.0",""
-"2010","Serbia","Percentage","Males","From 25 to 64 years","3.9",""
-"2010","Serbia","Percentage","Females","From 25 to 64 years","4.2",""
-"2010","Turkey","Percentage","Total","From 25 to 64 years","2.9",""
-"2010","Turkey","Percentage","Males","From 25 to 64 years","3.1",""
-"2010","Turkey","Percentage","Females","From 25 to 64 years","2.8",""
-"2011","European Union - 28 countries","Percentage","Total","From 25 to 64 years","9.1",""
-"2011","European Union - 28 countries","Percentage","Males","From 25 to 64 years","8.3",""
-"2011","European Union - 28 countries","Percentage","Females","From 25 to 64 years","9.8",""
-"2011","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","10.3",""
-"2011","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","9.4",""
-"2011","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","11.1",""
-"2011","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","8.3",""
-"2011","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","7.9",""
-"2011","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","8.7",""
-"2011","Belgium","Percentage","Total","From 25 to 64 years","7.4",""
-"2011","Belgium","Percentage","Males","From 25 to 64 years","7.0",""
-"2011","Belgium","Percentage","Females","From 25 to 64 years","7.8",""
-"2011","Bulgaria","Percentage","Total","From 25 to 64 years","1.6",""
-"2011","Bulgaria","Percentage","Males","From 25 to 64 years","1.5",""
-"2011","Bulgaria","Percentage","Females","From 25 to 64 years","1.6",""
-"2011","Czechia","Percentage","Total","From 25 to 64 years","11.6","b"
-"2011","Czechia","Percentage","Males","From 25 to 64 years","11.4","b"
-"2011","Czechia","Percentage","Females","From 25 to 64 years","11.9","b"
-"2011","Denmark","Percentage","Total","From 25 to 64 years","32.3",""
-"2011","Denmark","Percentage","Males","From 25 to 64 years","25.6",""
-"2011","Denmark","Percentage","Females","From 25 to 64 years","39.0",""
-"2011","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","7.9",""
-"2011","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","7.9",""
-"2011","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","7.8",""
-"2011","Estonia","Percentage","Total","From 25 to 64 years","11.9",""
-"2011","Estonia","Percentage","Males","From 25 to 64 years","9.2",""
-"2011","Estonia","Percentage","Females","From 25 to 64 years","14.5",""
-"2011","Ireland","Percentage","Total","From 25 to 64 years","7.2",""
-"2011","Ireland","Percentage","Males","From 25 to 64 years","6.9",""
-"2011","Ireland","Percentage","Females","From 25 to 64 years","7.6",""
-"2011","Greece","Percentage","Total","From 25 to 64 years","2.8",""
-"2011","Greece","Percentage","Males","From 25 to 64 years","2.9",""
-"2011","Greece","Percentage","Females","From 25 to 64 years","2.6",""
-"2011","Spain","Percentage","Total","From 25 to 64 years","11.2",""
-"2011","Spain","Percentage","Males","From 25 to 64 years","10.3",""
-"2011","Spain","Percentage","Females","From 25 to 64 years","12.1",""
-"2011","France","Percentage","Total","From 25 to 64 years","5.5",""
-"2011","France","Percentage","Males","From 25 to 64 years","5.1",""
-"2011","France","Percentage","Females","From 25 to 64 years","5.9",""
-"2011","Croatia","Percentage","Total","From 25 to 64 years","3.1",""
-"2011","Croatia","Percentage","Males","From 25 to 64 years","2.9",""
-"2011","Croatia","Percentage","Females","From 25 to 64 years","3.3",""
-"2011","Italy","Percentage","Total","From 25 to 64 years","5.7",""
-"2011","Italy","Percentage","Males","From 25 to 64 years","5.3",""
-"2011","Italy","Percentage","Females","From 25 to 64 years","6.1",""
-"2011","Cyprus","Percentage","Total","From 25 to 64 years","7.8",""
-"2011","Cyprus","Percentage","Males","From 25 to 64 years","7.7",""
-"2011","Cyprus","Percentage","Females","From 25 to 64 years","7.9",""
-"2011","Latvia","Percentage","Total","From 25 to 64 years","5.4",""
-"2011","Latvia","Percentage","Males","From 25 to 64 years","4.1",""
-"2011","Latvia","Percentage","Females","From 25 to 64 years","6.5",""
-"2011","Lithuania","Percentage","Total","From 25 to 64 years","6.0",""
-"2011","Lithuania","Percentage","Males","From 25 to 64 years","4.5",""
-"2011","Lithuania","Percentage","Females","From 25 to 64 years","7.3",""
-"2011","Luxembourg","Percentage","Total","From 25 to 64 years","13.9",""
-"2011","Luxembourg","Percentage","Males","From 25 to 64 years","14.5",""
-"2011","Luxembourg","Percentage","Females","From 25 to 64 years","13.3",""
-"2011","Hungary","Percentage","Total","From 25 to 64 years","3.0",""
-"2011","Hungary","Percentage","Males","From 25 to 64 years","2.8",""
-"2011","Hungary","Percentage","Females","From 25 to 64 years","3.1",""
-"2011","Malta","Percentage","Total","From 25 to 64 years","6.6",""
-"2011","Malta","Percentage","Males","From 25 to 64 years","6.2",""
-"2011","Malta","Percentage","Females","From 25 to 64 years","7.1",""
-"2011","Netherlands","Percentage","Total","From 25 to 64 years","17.1","b"
-"2011","Netherlands","Percentage","Males","From 25 to 64 years","16.9","b"
-"2011","Netherlands","Percentage","Females","From 25 to 64 years","17.3","b"
-"2011","Austria","Percentage","Total","From 25 to 64 years","13.5",""
-"2011","Austria","Percentage","Males","From 25 to 64 years","12.3",""
-"2011","Austria","Percentage","Females","From 25 to 64 years","14.6",""
-"2011","Poland","Percentage","Total","From 25 to 64 years","4.4",""
-"2011","Poland","Percentage","Males","From 25 to 64 years","3.9",""
-"2011","Poland","Percentage","Females","From 25 to 64 years","4.9",""
-"2011","Portugal","Percentage","Total","From 25 to 64 years","11.5","b"
-"2011","Portugal","Percentage","Males","From 25 to 64 years","10.8","b"
-"2011","Portugal","Percentage","Females","From 25 to 64 years","12.1","b"
-"2011","Romania","Percentage","Total","From 25 to 64 years","1.6",""
-"2011","Romania","Percentage","Males","From 25 to 64 years","1.7",""
-"2011","Romania","Percentage","Females","From 25 to 64 years","1.5",""
-"2011","Slovenia","Percentage","Total","From 25 to 64 years","16.0",""
-"2011","Slovenia","Percentage","Males","From 25 to 64 years","13.8",""
-"2011","Slovenia","Percentage","Females","From 25 to 64 years","18.3",""
-"2011","Slovakia","Percentage","Total","From 25 to 64 years","4.1","b"
-"2011","Slovakia","Percentage","Males","From 25 to 64 years","3.5","b"
-"2011","Slovakia","Percentage","Females","From 25 to 64 years","4.6","b"
-"2011","Finland","Percentage","Total","From 25 to 64 years","23.8",""
-"2011","Finland","Percentage","Males","From 25 to 64 years","19.9",""
-"2011","Finland","Percentage","Females","From 25 to 64 years","27.7",""
-"2011","Sweden","Percentage","Total","From 25 to 64 years","25.3",""
-"2011","Sweden","Percentage","Males","From 25 to 64 years","18.7",""
-"2011","Sweden","Percentage","Females","From 25 to 64 years","32.0",""
-"2011","United Kingdom","Percentage","Total","From 25 to 64 years","16.3",""
-"2011","United Kingdom","Percentage","Males","From 25 to 64 years","14.4",""
-"2011","United Kingdom","Percentage","Females","From 25 to 64 years","18.2",""
-"2011","Iceland","Percentage","Total","From 25 to 64 years","26.4",""
-"2011","Iceland","Percentage","Males","From 25 to 64 years","23.3",""
-"2011","Iceland","Percentage","Females","From 25 to 64 years","29.5",""
-"2011","Norway","Percentage","Total","From 25 to 64 years","18.6",""
-"2011","Norway","Percentage","Males","From 25 to 64 years","17.5",""
-"2011","Norway","Percentage","Females","From 25 to 64 years","19.7",""
-"2011","Switzerland","Percentage","Total","From 25 to 64 years","28.9",""
-"2011","Switzerland","Percentage","Males","From 25 to 64 years","30.0",""
-"2011","Switzerland","Percentage","Females","From 25 to 64 years","27.9",""
-"2011","Montenegro","Percentage","Total","From 25 to 64 years","2.4",""
-"2011","Montenegro","Percentage","Males","From 25 to 64 years","2.6",""
-"2011","Montenegro","Percentage","Females","From 25 to 64 years","2.3",""
-"2011","North Macedonia","Percentage","Total","From 25 to 64 years","3.6",""
-"2011","North Macedonia","Percentage","Males","From 25 to 64 years","3.6",""
-"2011","North Macedonia","Percentage","Females","From 25 to 64 years","3.5",""
-"2011","Serbia","Percentage","Total","From 25 to 64 years","3.5",""
-"2011","Serbia","Percentage","Males","From 25 to 64 years","3.2",""
-"2011","Serbia","Percentage","Females","From 25 to 64 years","3.8",""
-"2011","Turkey","Percentage","Total","From 25 to 64 years","3.4",""
-"2011","Turkey","Percentage","Males","From 25 to 64 years","3.5",""
-"2011","Turkey","Percentage","Females","From 25 to 64 years","3.2",""
-"2012","European Union - 28 countries","Percentage","Total","From 25 to 64 years","9.2",""
-"2012","European Union - 28 countries","Percentage","Males","From 25 to 64 years","8.5",""
-"2012","European Union - 28 countries","Percentage","Females","From 25 to 64 years","9.9",""
-"2012","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","10.5",""
-"2012","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","9.7",""
-"2012","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","11.3",""
-"2012","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","8.5",""
-"2012","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","8.1",""
-"2012","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","8.9",""
-"2012","Belgium","Percentage","Total","From 25 to 64 years","6.9",""
-"2012","Belgium","Percentage","Males","From 25 to 64 years","6.5",""
-"2012","Belgium","Percentage","Females","From 25 to 64 years","7.3",""
-"2012","Bulgaria","Percentage","Total","From 25 to 64 years","1.7",""
-"2012","Bulgaria","Percentage","Males","From 25 to 64 years","1.7",""
-"2012","Bulgaria","Percentage","Females","From 25 to 64 years","1.8",""
-"2012","Czechia","Percentage","Total","From 25 to 64 years","11.1",""
-"2012","Czechia","Percentage","Males","From 25 to 64 years","10.8",""
-"2012","Czechia","Percentage","Females","From 25 to 64 years","11.4",""
-"2012","Denmark","Percentage","Total","From 25 to 64 years","31.6",""
-"2012","Denmark","Percentage","Males","From 25 to 64 years","25.4",""
-"2012","Denmark","Percentage","Females","From 25 to 64 years","37.8",""
-"2012","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","7.9",""
-"2012","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.1",""
-"2012","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","7.8",""
-"2012","Estonia","Percentage","Total","From 25 to 64 years","12.8",""
-"2012","Estonia","Percentage","Males","From 25 to 64 years","10.7",""
-"2012","Estonia","Percentage","Females","From 25 to 64 years","14.8",""
-"2012","Ireland","Percentage","Total","From 25 to 64 years","7.5",""
-"2012","Ireland","Percentage","Males","From 25 to 64 years","7.1",""
-"2012","Ireland","Percentage","Females","From 25 to 64 years","7.8",""
-"2012","Greece","Percentage","Total","From 25 to 64 years","3.3",""
-"2012","Greece","Percentage","Males","From 25 to 64 years","3.5",""
-"2012","Greece","Percentage","Females","From 25 to 64 years","3.0",""
-"2012","Spain","Percentage","Total","From 25 to 64 years","11.2",""
-"2012","Spain","Percentage","Males","From 25 to 64 years","10.2",""
-"2012","Spain","Percentage","Females","From 25 to 64 years","12.1",""
-"2012","France","Percentage","Total","From 25 to 64 years","5.7",""
-"2012","France","Percentage","Males","From 25 to 64 years","5.4",""
-"2012","France","Percentage","Females","From 25 to 64 years","6.0",""
-"2012","Croatia","Percentage","Total","From 25 to 64 years","3.3",""
-"2012","Croatia","Percentage","Males","From 25 to 64 years","2.9",""
-"2012","Croatia","Percentage","Females","From 25 to 64 years","3.7",""
-"2012","Italy","Percentage","Total","From 25 to 64 years","6.6",""
-"2012","Italy","Percentage","Males","From 25 to 64 years","6.1",""
-"2012","Italy","Percentage","Females","From 25 to 64 years","7.0",""
-"2012","Cyprus","Percentage","Total","From 25 to 64 years","7.7",""
-"2012","Cyprus","Percentage","Males","From 25 to 64 years","7.4",""
-"2012","Cyprus","Percentage","Females","From 25 to 64 years","8.0",""
-"2012","Latvia","Percentage","Total","From 25 to 64 years","7.2",""
-"2012","Latvia","Percentage","Males","From 25 to 64 years","6.2",""
-"2012","Latvia","Percentage","Females","From 25 to 64 years","8.1",""
-"2012","Lithuania","Percentage","Total","From 25 to 64 years","5.4",""
-"2012","Lithuania","Percentage","Males","From 25 to 64 years","4.5",""
-"2012","Lithuania","Percentage","Females","From 25 to 64 years","6.2",""
-"2012","Luxembourg","Percentage","Total","From 25 to 64 years","14.2",""
-"2012","Luxembourg","Percentage","Males","From 25 to 64 years","14.3",""
-"2012","Luxembourg","Percentage","Females","From 25 to 64 years","14.1",""
-"2012","Hungary","Percentage","Total","From 25 to 64 years","2.9",""
-"2012","Hungary","Percentage","Males","From 25 to 64 years","2.7",""
-"2012","Hungary","Percentage","Females","From 25 to 64 years","3.1",""
-"2012","Malta","Percentage","Total","From 25 to 64 years","7.2",""
-"2012","Malta","Percentage","Males","From 25 to 64 years","6.8",""
-"2012","Malta","Percentage","Females","From 25 to 64 years","7.6",""
-"2012","Netherlands","Percentage","Total","From 25 to 64 years","16.9",""
-"2012","Netherlands","Percentage","Males","From 25 to 64 years","16.4",""
-"2012","Netherlands","Percentage","Females","From 25 to 64 years","17.4",""
-"2012","Austria","Percentage","Total","From 25 to 64 years","14.2",""
-"2012","Austria","Percentage","Males","From 25 to 64 years","13.2",""
-"2012","Austria","Percentage","Females","From 25 to 64 years","15.3",""
-"2012","Poland","Percentage","Total","From 25 to 64 years","4.5",""
-"2012","Poland","Percentage","Males","From 25 to 64 years","3.8",""
-"2012","Poland","Percentage","Females","From 25 to 64 years","5.1",""
-"2012","Portugal","Percentage","Total","From 25 to 64 years","10.5",""
-"2012","Portugal","Percentage","Males","From 25 to 64 years","10.0",""
-"2012","Portugal","Percentage","Females","From 25 to 64 years","10.9",""
-"2012","Romania","Percentage","Total","From 25 to 64 years","1.4",""
-"2012","Romania","Percentage","Males","From 25 to 64 years","1.5",""
-"2012","Romania","Percentage","Females","From 25 to 64 years","1.4",""
-"2012","Slovenia","Percentage","Total","From 25 to 64 years","13.8",""
-"2012","Slovenia","Percentage","Males","From 25 to 64 years","11.6",""
-"2012","Slovenia","Percentage","Females","From 25 to 64 years","16.2",""
-"2012","Slovakia","Percentage","Total","From 25 to 64 years","3.2",""
-"2012","Slovakia","Percentage","Males","From 25 to 64 years","2.8",""
-"2012","Slovakia","Percentage","Females","From 25 to 64 years","3.7",""
-"2012","Finland","Percentage","Total","From 25 to 64 years","24.5",""
-"2012","Finland","Percentage","Males","From 25 to 64 years","20.7",""
-"2012","Finland","Percentage","Females","From 25 to 64 years","28.4",""
-"2012","Sweden","Percentage","Total","From 25 to 64 years","27.0",""
-"2012","Sweden","Percentage","Males","From 25 to 64 years","20.3",""
-"2012","Sweden","Percentage","Females","From 25 to 64 years","33.9",""
-"2012","United Kingdom","Percentage","Total","From 25 to 64 years","16.3",""
-"2012","United Kingdom","Percentage","Males","From 25 to 64 years","14.6",""
-"2012","United Kingdom","Percentage","Females","From 25 to 64 years","18.0",""
-"2012","Iceland","Percentage","Total","From 25 to 64 years","28.1",""
-"2012","Iceland","Percentage","Males","From 25 to 64 years","24.2",""
-"2012","Iceland","Percentage","Females","From 25 to 64 years","32.0",""
-"2012","Norway","Percentage","Total","From 25 to 64 years","20.4",""
-"2012","Norway","Percentage","Males","From 25 to 64 years","19.1",""
-"2012","Norway","Percentage","Females","From 25 to 64 years","21.8",""
-"2012","Switzerland","Percentage","Total","From 25 to 64 years","29.1",""
-"2012","Switzerland","Percentage","Males","From 25 to 64 years","30.1",""
-"2012","Switzerland","Percentage","Females","From 25 to 64 years","28.0",""
-"2012","Montenegro","Percentage","Total","From 25 to 64 years","2.4",""
-"2012","Montenegro","Percentage","Males","From 25 to 64 years","2.7",""
-"2012","Montenegro","Percentage","Females","From 25 to 64 years","2.2",""
-"2012","North Macedonia","Percentage","Total","From 25 to 64 years","4.1",""
-"2012","North Macedonia","Percentage","Males","From 25 to 64 years","4.1",""
-"2012","North Macedonia","Percentage","Females","From 25 to 64 years","4.0",""
-"2012","Serbia","Percentage","Total","From 25 to 64 years","3.6",""
-"2012","Serbia","Percentage","Males","From 25 to 64 years","3.4",""
-"2012","Serbia","Percentage","Females","From 25 to 64 years","3.8",""
-"2012","Turkey","Percentage","Total","From 25 to 64 years","3.9",""
-"2012","Turkey","Percentage","Males","From 25 to 64 years","4.0",""
-"2012","Turkey","Percentage","Females","From 25 to 64 years","3.8",""
-"2013","European Union - 28 countries","Percentage","Total","From 25 to 64 years","10.7","b"
-"2013","European Union - 28 countries","Percentage","Males","From 25 to 64 years","9.7","b"
-"2013","European Union - 28 countries","Percentage","Females","From 25 to 64 years","11.6","b"
-"2013","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","12.4","b"
-"2013","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","11.3","b"
-"2013","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","13.5","b"
-"2013","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","10.6","b"
-"2013","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","9.8","b"
-"2013","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","11.4","b"
-"2013","Belgium","Percentage","Total","From 25 to 64 years","6.9",""
-"2013","Belgium","Percentage","Males","From 25 to 64 years","6.7",""
-"2013","Belgium","Percentage","Females","From 25 to 64 years","7.1",""
-"2013","Bulgaria","Percentage","Total","From 25 to 64 years","2.0",""
-"2013","Bulgaria","Percentage","Males","From 25 to 64 years","1.9",""
-"2013","Bulgaria","Percentage","Females","From 25 to 64 years","2.1",""
-"2013","Czechia","Percentage","Total","From 25 to 64 years","10.0","b"
-"2013","Czechia","Percentage","Males","From 25 to 64 years","10.0","b"
-"2013","Czechia","Percentage","Females","From 25 to 64 years","9.9","b"
-"2013","Denmark","Percentage","Total","From 25 to 64 years","31.4",""
-"2013","Denmark","Percentage","Males","From 25 to 64 years","25.7",""
-"2013","Denmark","Percentage","Females","From 25 to 64 years","37.2",""
-"2013","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","7.9",""
-"2013","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","7.9",""
-"2013","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","7.9",""
-"2013","Estonia","Percentage","Total","From 25 to 64 years","12.6",""
-"2013","Estonia","Percentage","Males","From 25 to 64 years","9.8",""
-"2013","Estonia","Percentage","Females","From 25 to 64 years","15.3",""
-"2013","Ireland","Percentage","Total","From 25 to 64 years","7.6",""
-"2013","Ireland","Percentage","Males","From 25 to 64 years","7.2",""
-"2013","Ireland","Percentage","Females","From 25 to 64 years","7.9",""
-"2013","Greece","Percentage","Total","From 25 to 64 years","3.2",""
-"2013","Greece","Percentage","Males","From 25 to 64 years","3.3",""
-"2013","Greece","Percentage","Females","From 25 to 64 years","3.1",""
-"2013","Spain","Percentage","Total","From 25 to 64 years","11.4",""
-"2013","Spain","Percentage","Males","From 25 to 64 years","10.5",""
-"2013","Spain","Percentage","Females","From 25 to 64 years","12.2",""
-"2013","France","Percentage","Total","From 25 to 64 years","17.8","b"
-"2013","France","Percentage","Males","From 25 to 64 years","15.5","b"
-"2013","France","Percentage","Females","From 25 to 64 years","20.0","b"
-"2013","Croatia","Percentage","Total","From 25 to 64 years","3.1",""
-"2013","Croatia","Percentage","Males","From 25 to 64 years","3.0",""
-"2013","Croatia","Percentage","Females","From 25 to 64 years","3.3",""
-"2013","Italy","Percentage","Total","From 25 to 64 years","6.2",""
-"2013","Italy","Percentage","Males","From 25 to 64 years","5.8",""
-"2013","Italy","Percentage","Females","From 25 to 64 years","6.5",""
-"2013","Cyprus","Percentage","Total","From 25 to 64 years","7.2",""
-"2013","Cyprus","Percentage","Males","From 25 to 64 years","7.0",""
-"2013","Cyprus","Percentage","Females","From 25 to 64 years","7.4",""
-"2013","Latvia","Percentage","Total","From 25 to 64 years","6.8",""
-"2013","Latvia","Percentage","Males","From 25 to 64 years","5.1",""
-"2013","Latvia","Percentage","Females","From 25 to 64 years","8.2",""
-"2013","Lithuania","Percentage","Total","From 25 to 64 years","5.9",""
-"2013","Lithuania","Percentage","Males","From 25 to 64 years","5.2",""
-"2013","Lithuania","Percentage","Females","From 25 to 64 years","6.5",""
-"2013","Luxembourg","Percentage","Total","From 25 to 64 years","14.6",""
-"2013","Luxembourg","Percentage","Males","From 25 to 64 years","14.0",""
-"2013","Luxembourg","Percentage","Females","From 25 to 64 years","15.2",""
-"2013","Hungary","Percentage","Total","From 25 to 64 years","3.2",""
-"2013","Hungary","Percentage","Males","From 25 to 64 years","3.1",""
-"2013","Hungary","Percentage","Females","From 25 to 64 years","3.2",""
-"2013","Malta","Percentage","Total","From 25 to 64 years","7.7",""
-"2013","Malta","Percentage","Males","From 25 to 64 years","7.4",""
-"2013","Malta","Percentage","Females","From 25 to 64 years","8.0",""
-"2013","Netherlands","Percentage","Total","From 25 to 64 years","17.9","b"
-"2013","Netherlands","Percentage","Males","From 25 to 64 years","17.4","b"
-"2013","Netherlands","Percentage","Females","From 25 to 64 years","18.4","b"
-"2013","Austria","Percentage","Total","From 25 to 64 years","14.1",""
-"2013","Austria","Percentage","Males","From 25 to 64 years","12.8",""
-"2013","Austria","Percentage","Females","From 25 to 64 years","15.4",""
-"2013","Poland","Percentage","Total","From 25 to 64 years","4.3","b"
-"2013","Poland","Percentage","Males","From 25 to 64 years","3.8","b"
-"2013","Poland","Percentage","Females","From 25 to 64 years","4.9","b"
-"2013","Portugal","Percentage","Total","From 25 to 64 years","9.7",""
-"2013","Portugal","Percentage","Males","From 25 to 64 years","9.3",""
-"2013","Portugal","Percentage","Females","From 25 to 64 years","10.1",""
-"2013","Romania","Percentage","Total","From 25 to 64 years","2.0",""
-"2013","Romania","Percentage","Males","From 25 to 64 years","2.2",""
-"2013","Romania","Percentage","Females","From 25 to 64 years","1.8",""
-"2013","Slovenia","Percentage","Total","From 25 to 64 years","12.5",""
-"2013","Slovenia","Percentage","Males","From 25 to 64 years","10.5",""
-"2013","Slovenia","Percentage","Females","From 25 to 64 years","14.6",""
-"2013","Slovakia","Percentage","Total","From 25 to 64 years","3.1",""
-"2013","Slovakia","Percentage","Males","From 25 to 64 years","2.9",""
-"2013","Slovakia","Percentage","Females","From 25 to 64 years","3.3",""
-"2013","Finland","Percentage","Total","From 25 to 64 years","24.9",""
-"2013","Finland","Percentage","Males","From 25 to 64 years","21.1",""
-"2013","Finland","Percentage","Females","From 25 to 64 years","28.8",""
-"2013","Sweden","Percentage","Total","From 25 to 64 years","28.4",""
-"2013","Sweden","Percentage","Males","From 25 to 64 years","21.5",""
-"2013","Sweden","Percentage","Females","From 25 to 64 years","35.5",""
-"2013","United Kingdom","Percentage","Total","From 25 to 64 years","16.6",""
-"2013","United Kingdom","Percentage","Males","From 25 to 64 years","15.0",""
-"2013","United Kingdom","Percentage","Females","From 25 to 64 years","18.3",""
-"2013","Iceland","Percentage","Total","From 25 to 64 years","26.3",""
-"2013","Iceland","Percentage","Males","From 25 to 64 years","22.9",""
-"2013","Iceland","Percentage","Females","From 25 to 64 years","29.8",""
-"2013","Norway","Percentage","Total","From 25 to 64 years","20.8",""
-"2013","Norway","Percentage","Males","From 25 to 64 years","19.2",""
-"2013","Norway","Percentage","Females","From 25 to 64 years","22.4",""
-"2013","Switzerland","Percentage","Total","From 25 to 64 years","29.3",""
-"2013","Switzerland","Percentage","Males","From 25 to 64 years","30.0",""
-"2013","Switzerland","Percentage","Females","From 25 to 64 years","28.7",""
-"2013","Montenegro","Percentage","Total","From 25 to 64 years","2.8",""
-"2013","Montenegro","Percentage","Males","From 25 to 64 years","2.7",""
-"2013","Montenegro","Percentage","Females","From 25 to 64 years","2.8",""
-"2013","North Macedonia","Percentage","Total","From 25 to 64 years","3.7",""
-"2013","North Macedonia","Percentage","Males","From 25 to 64 years","3.9",""
-"2013","North Macedonia","Percentage","Females","From 25 to 64 years","3.6",""
-"2013","Serbia","Percentage","Total","From 25 to 64 years","3.9",""
-"2013","Serbia","Percentage","Males","From 25 to 64 years","3.4",""
-"2013","Serbia","Percentage","Females","From 25 to 64 years","4.5",""
-"2013","Turkey","Percentage","Total","From 25 to 64 years","4.5",""
-"2013","Turkey","Percentage","Males","From 25 to 64 years","4.6",""
-"2013","Turkey","Percentage","Females","From 25 to 64 years","4.5",""
-"2014","European Union - 28 countries","Percentage","Total","From 25 to 64 years","10.8",""
-"2014","European Union - 28 countries","Percentage","Males","From 25 to 64 years","9.9",""
-"2014","European Union - 28 countries","Percentage","Females","From 25 to 64 years","11.8",""
-"2014","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","12.7",""
-"2014","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","11.6",""
-"2014","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","13.8",""
-"2014","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","10.9",""
-"2014","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","10.2",""
-"2014","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","11.7",""
-"2014","Belgium","Percentage","Total","From 25 to 64 years","7.4",""
-"2014","Belgium","Percentage","Males","From 25 to 64 years","6.9",""
-"2014","Belgium","Percentage","Females","From 25 to 64 years","7.9",""
-"2014","Bulgaria","Percentage","Total","From 25 to 64 years","2.1",""
-"2014","Bulgaria","Percentage","Males","From 25 to 64 years","1.8",""
-"2014","Bulgaria","Percentage","Females","From 25 to 64 years","2.3",""
-"2014","Czechia","Percentage","Total","From 25 to 64 years","9.6",""
-"2014","Czechia","Percentage","Males","From 25 to 64 years","9.3",""
-"2014","Czechia","Percentage","Females","From 25 to 64 years","9.8",""
-"2014","Denmark","Percentage","Total","From 25 to 64 years","31.9",""
-"2014","Denmark","Percentage","Males","From 25 to 64 years","26.1",""
-"2014","Denmark","Percentage","Females","From 25 to 64 years","37.7",""
-"2014","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","8.0",""
-"2014","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.1",""
-"2014","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","7.9",""
-"2014","Estonia","Percentage","Total","From 25 to 64 years","11.6",""
-"2014","Estonia","Percentage","Males","From 25 to 64 years","9.2",""
-"2014","Estonia","Percentage","Females","From 25 to 64 years","13.9",""
-"2014","Ireland","Percentage","Total","From 25 to 64 years","7.0",""
-"2014","Ireland","Percentage","Males","From 25 to 64 years","6.4",""
-"2014","Ireland","Percentage","Females","From 25 to 64 years","7.6",""
-"2014","Greece","Percentage","Total","From 25 to 64 years","3.2",""
-"2014","Greece","Percentage","Males","From 25 to 64 years","3.4",""
-"2014","Greece","Percentage","Females","From 25 to 64 years","3.1",""
-"2014","Spain","Percentage","Total","From 25 to 64 years","10.1","b"
-"2014","Spain","Percentage","Males","From 25 to 64 years","9.4","b"
-"2014","Spain","Percentage","Females","From 25 to 64 years","10.8","b"
-"2014","France","Percentage","Total","From 25 to 64 years","18.4","b"
-"2014","France","Percentage","Males","From 25 to 64 years","16.0","b"
-"2014","France","Percentage","Females","From 25 to 64 years","20.8","b"
-"2014","Croatia","Percentage","Total","From 25 to 64 years","2.8",""
-"2014","Croatia","Percentage","Males","From 25 to 64 years","2.6",""
-"2014","Croatia","Percentage","Females","From 25 to 64 years","3.0",""
-"2014","Italy","Percentage","Total","From 25 to 64 years","8.1",""
-"2014","Italy","Percentage","Males","From 25 to 64 years","7.8",""
-"2014","Italy","Percentage","Females","From 25 to 64 years","8.3",""
-"2014","Cyprus","Percentage","Total","From 25 to 64 years","7.1",""
-"2014","Cyprus","Percentage","Males","From 25 to 64 years","6.7",""
-"2014","Cyprus","Percentage","Females","From 25 to 64 years","7.5",""
-"2014","Latvia","Percentage","Total","From 25 to 64 years","5.6",""
-"2014","Latvia","Percentage","Males","From 25 to 64 years","4.9",""
-"2014","Latvia","Percentage","Females","From 25 to 64 years","6.3",""
-"2014","Lithuania","Percentage","Total","From 25 to 64 years","5.1",""
-"2014","Lithuania","Percentage","Males","From 25 to 64 years","4.6",""
-"2014","Lithuania","Percentage","Females","From 25 to 64 years","5.6",""
-"2014","Luxembourg","Percentage","Total","From 25 to 64 years","14.5",""
-"2014","Luxembourg","Percentage","Males","From 25 to 64 years","13.9",""
-"2014","Luxembourg","Percentage","Females","From 25 to 64 years","15.1",""
-"2014","Hungary","Percentage","Total","From 25 to 64 years","3.3",""
-"2014","Hungary","Percentage","Males","From 25 to 64 years","3.0",""
-"2014","Hungary","Percentage","Females","From 25 to 64 years","3.6",""
-"2014","Malta","Percentage","Total","From 25 to 64 years","7.7",""
-"2014","Malta","Percentage","Males","From 25 to 64 years","7.3",""
-"2014","Malta","Percentage","Females","From 25 to 64 years","8.1",""
-"2014","Netherlands","Percentage","Total","From 25 to 64 years","18.3",""
-"2014","Netherlands","Percentage","Males","From 25 to 64 years","18.0",""
-"2014","Netherlands","Percentage","Females","From 25 to 64 years","18.6",""
-"2014","Austria","Percentage","Total","From 25 to 64 years","14.3",""
-"2014","Austria","Percentage","Males","From 25 to 64 years","13.2",""
-"2014","Austria","Percentage","Females","From 25 to 64 years","15.4",""
-"2014","Poland","Percentage","Total","From 25 to 64 years","4.0",""
-"2014","Poland","Percentage","Males","From 25 to 64 years","3.6",""
-"2014","Poland","Percentage","Females","From 25 to 64 years","4.3",""
-"2014","Portugal","Percentage","Total","From 25 to 64 years","9.6",""
-"2014","Portugal","Percentage","Males","From 25 to 64 years","9.3",""
-"2014","Portugal","Percentage","Females","From 25 to 64 years","9.9",""
-"2014","Romania","Percentage","Total","From 25 to 64 years","1.5",""
-"2014","Romania","Percentage","Males","From 25 to 64 years","1.7",""
-"2014","Romania","Percentage","Females","From 25 to 64 years","1.4",""
-"2014","Slovenia","Percentage","Total","From 25 to 64 years","12.1",""
-"2014","Slovenia","Percentage","Males","From 25 to 64 years","10.5",""
-"2014","Slovenia","Percentage","Females","From 25 to 64 years","13.8",""
-"2014","Slovakia","Percentage","Total","From 25 to 64 years","3.1",""
-"2014","Slovakia","Percentage","Males","From 25 to 64 years","3.0",""
-"2014","Slovakia","Percentage","Females","From 25 to 64 years","3.2",""
-"2014","Finland","Percentage","Total","From 25 to 64 years","25.1",""
-"2014","Finland","Percentage","Males","From 25 to 64 years","21.6",""
-"2014","Finland","Percentage","Females","From 25 to 64 years","28.8",""
-"2014","Sweden","Percentage","Total","From 25 to 64 years","29.2",""
-"2014","Sweden","Percentage","Males","From 25 to 64 years","22.3",""
-"2014","Sweden","Percentage","Females","From 25 to 64 years","36.3",""
-"2014","United Kingdom","Percentage","Total","From 25 to 64 years","16.3",""
-"2014","United Kingdom","Percentage","Males","From 25 to 64 years","14.6",""
-"2014","United Kingdom","Percentage","Females","From 25 to 64 years","18.0",""
-"2014","Iceland","Percentage","Total","From 25 to 64 years","26.3",""
-"2014","Iceland","Percentage","Males","From 25 to 64 years","21.9",""
-"2014","Iceland","Percentage","Females","From 25 to 64 years","30.6",""
-"2014","Norway","Percentage","Total","From 25 to 64 years","20.1",""
-"2014","Norway","Percentage","Males","From 25 to 64 years","18.4",""
-"2014","Norway","Percentage","Females","From 25 to 64 years","21.9",""
-"2014","Switzerland","Percentage","Total","From 25 to 64 years","30.5",""
-"2014","Switzerland","Percentage","Males","From 25 to 64 years","30.8",""
-"2014","Switzerland","Percentage","Females","From 25 to 64 years","30.3",""
-"2014","Montenegro","Percentage","Total","From 25 to 64 years","2.9",""
-"2014","Montenegro","Percentage","Males","From 25 to 64 years","3.1",""
-"2014","Montenegro","Percentage","Females","From 25 to 64 years","2.7",""
-"2014","North Macedonia","Percentage","Total","From 25 to 64 years","3.2",""
-"2014","North Macedonia","Percentage","Males","From 25 to 64 years","3.2",""
-"2014","North Macedonia","Percentage","Females","From 25 to 64 years","3.3",""
-"2014","Serbia","Percentage","Total","From 25 to 64 years","4.4","b"
-"2014","Serbia","Percentage","Males","From 25 to 64 years","4.1","b"
-"2014","Serbia","Percentage","Females","From 25 to 64 years","4.8","b"
-"2014","Turkey","Percentage","Total","From 25 to 64 years","5.7","b"
-"2014","Turkey","Percentage","Males","From 25 to 64 years","5.8","b"
-"2014","Turkey","Percentage","Females","From 25 to 64 years","5.5","b"
-"2015","European Union - 28 countries","Percentage","Total","From 25 to 64 years","10.7",""
-"2015","European Union - 28 countries","Percentage","Males","From 25 to 64 years","9.7",""
-"2015","European Union - 28 countries","Percentage","Females","From 25 to 64 years","11.7",""
-"2015","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","12.5",""
-"2015","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","11.3",""
-"2015","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","13.7",""
-"2015","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","10.9",""
-"2015","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","10.0",""
-"2015","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","11.7",""
-"2015","Belgium","Percentage","Total","From 25 to 64 years","6.9",""
-"2015","Belgium","Percentage","Males","From 25 to 64 years","6.5",""
-"2015","Belgium","Percentage","Females","From 25 to 64 years","7.3",""
-"2015","Bulgaria","Percentage","Total","From 25 to 64 years","2.0",""
-"2015","Bulgaria","Percentage","Males","From 25 to 64 years","1.9",""
-"2015","Bulgaria","Percentage","Females","From 25 to 64 years","2.1",""
-"2015","Czechia","Percentage","Total","From 25 to 64 years","8.5",""
-"2015","Czechia","Percentage","Males","From 25 to 64 years","8.3",""
-"2015","Czechia","Percentage","Females","From 25 to 64 years","8.6",""
-"2015","Denmark","Percentage","Total","From 25 to 64 years","31.3",""
-"2015","Denmark","Percentage","Males","From 25 to 64 years","25.3",""
-"2015","Denmark","Percentage","Females","From 25 to 64 years","37.3",""
-"2015","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","8.1",""
-"2015","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.2",""
-"2015","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","8.0",""
-"2015","Estonia","Percentage","Total","From 25 to 64 years","12.4",""
-"2015","Estonia","Percentage","Males","From 25 to 64 years","10.6",""
-"2015","Estonia","Percentage","Females","From 25 to 64 years","14.1",""
-"2015","Ireland","Percentage","Total","From 25 to 64 years","6.5",""
-"2015","Ireland","Percentage","Males","From 25 to 64 years","6.0",""
-"2015","Ireland","Percentage","Females","From 25 to 64 years","7.1",""
-"2015","Greece","Percentage","Total","From 25 to 64 years","3.3",""
-"2015","Greece","Percentage","Males","From 25 to 64 years","3.3",""
-"2015","Greece","Percentage","Females","From 25 to 64 years","3.3",""
-"2015","Spain","Percentage","Total","From 25 to 64 years","9.9",""
-"2015","Spain","Percentage","Males","From 25 to 64 years","9.2",""
-"2015","Spain","Percentage","Females","From 25 to 64 years","10.7",""
-"2015","France","Percentage","Total","From 25 to 64 years","18.6",""
-"2015","France","Percentage","Males","From 25 to 64 years","15.9",""
-"2015","France","Percentage","Females","From 25 to 64 years","21.1",""
-"2015","Croatia","Percentage","Total","From 25 to 64 years","3.1",""
-"2015","Croatia","Percentage","Males","From 25 to 64 years","2.7",""
-"2015","Croatia","Percentage","Females","From 25 to 64 years","3.6",""
-"2015","Italy","Percentage","Total","From 25 to 64 years","7.3",""
-"2015","Italy","Percentage","Males","From 25 to 64 years","6.9",""
-"2015","Italy","Percentage","Females","From 25 to 64 years","7.7",""
-"2015","Cyprus","Percentage","Total","From 25 to 64 years","7.5",""
-"2015","Cyprus","Percentage","Males","From 25 to 64 years","6.9",""
-"2015","Cyprus","Percentage","Females","From 25 to 64 years","7.9",""
-"2015","Latvia","Percentage","Total","From 25 to 64 years","5.7",""
-"2015","Latvia","Percentage","Males","From 25 to 64 years","4.1",""
-"2015","Latvia","Percentage","Females","From 25 to 64 years","7.2",""
-"2015","Lithuania","Percentage","Total","From 25 to 64 years","5.8",""
-"2015","Lithuania","Percentage","Males","From 25 to 64 years","5.1",""
-"2015","Lithuania","Percentage","Females","From 25 to 64 years","6.5",""
-"2015","Luxembourg","Percentage","Total","From 25 to 64 years","18.0","b"
-"2015","Luxembourg","Percentage","Males","From 25 to 64 years","18.2","b"
-"2015","Luxembourg","Percentage","Females","From 25 to 64 years","17.8","b"
-"2015","Hungary","Percentage","Total","From 25 to 64 years","7.1","b"
-"2015","Hungary","Percentage","Males","From 25 to 64 years","6.8","b"
-"2015","Hungary","Percentage","Females","From 25 to 64 years","7.5","b"
-"2015","Malta","Percentage","Total","From 25 to 64 years","7.4",""
-"2015","Malta","Percentage","Males","From 25 to 64 years","6.9",""
-"2015","Malta","Percentage","Females","From 25 to 64 years","7.9",""
-"2015","Netherlands","Percentage","Total","From 25 to 64 years","18.9",""
-"2015","Netherlands","Percentage","Males","From 25 to 64 years","18.4",""
-"2015","Netherlands","Percentage","Females","From 25 to 64 years","19.4",""
-"2015","Austria","Percentage","Total","From 25 to 64 years","14.4",""
-"2015","Austria","Percentage","Males","From 25 to 64 years","13.3",""
-"2015","Austria","Percentage","Females","From 25 to 64 years","15.4",""
-"2015","Poland","Percentage","Total","From 25 to 64 years","3.5",""
-"2015","Poland","Percentage","Males","From 25 to 64 years","3.3",""
-"2015","Poland","Percentage","Females","From 25 to 64 years","3.8",""
-"2015","Portugal","Percentage","Total","From 25 to 64 years","9.7",""
-"2015","Portugal","Percentage","Males","From 25 to 64 years","9.7",""
-"2015","Portugal","Percentage","Females","From 25 to 64 years","9.8",""
-"2015","Romania","Percentage","Total","From 25 to 64 years","1.3",""
-"2015","Romania","Percentage","Males","From 25 to 64 years","1.3",""
-"2015","Romania","Percentage","Females","From 25 to 64 years","1.3",""
-"2015","Slovenia","Percentage","Total","From 25 to 64 years","11.9",""
-"2015","Slovenia","Percentage","Males","From 25 to 64 years","10.7",""
-"2015","Slovenia","Percentage","Females","From 25 to 64 years","13.3",""
-"2015","Slovakia","Percentage","Total","From 25 to 64 years","3.1",""
-"2015","Slovakia","Percentage","Males","From 25 to 64 years","2.7",""
-"2015","Slovakia","Percentage","Females","From 25 to 64 years","3.4",""
-"2015","Finland","Percentage","Total","From 25 to 64 years","25.4",""
-"2015","Finland","Percentage","Males","From 25 to 64 years","21.8",""
-"2015","Finland","Percentage","Females","From 25 to 64 years","29.1",""
-"2015","Sweden","Percentage","Total","From 25 to 64 years","29.4",""
-"2015","Sweden","Percentage","Males","From 25 to 64 years","22.3",""
-"2015","Sweden","Percentage","Females","From 25 to 64 years","36.7",""
-"2015","United Kingdom","Percentage","Total","From 25 to 64 years","15.7",""
-"2015","United Kingdom","Percentage","Males","From 25 to 64 years","13.9",""
-"2015","United Kingdom","Percentage","Females","From 25 to 64 years","17.5",""
-"2015","Iceland","Percentage","Total","From 25 to 64 years","28.1",""
-"2015","Iceland","Percentage","Males","From 25 to 64 years","23.5",""
-"2015","Iceland","Percentage","Females","From 25 to 64 years","32.7",""
-"2015","Norway","Percentage","Total","From 25 to 64 years","20.1",""
-"2015","Norway","Percentage","Males","From 25 to 64 years","18.3",""
-"2015","Norway","Percentage","Females","From 25 to 64 years","22.0",""
-"2015","Switzerland","Percentage","Total","From 25 to 64 years","30.8",""
-"2015","Switzerland","Percentage","Males","From 25 to 64 years","31.5",""
-"2015","Switzerland","Percentage","Females","From 25 to 64 years","30.2",""
-"2015","Montenegro","Percentage","Total","From 25 to 64 years","3.0",""
-"2015","Montenegro","Percentage","Males","From 25 to 64 years","3.4",""
-"2015","Montenegro","Percentage","Females","From 25 to 64 years","2.5",""
-"2015","North Macedonia","Percentage","Total","From 25 to 64 years","2.6",""
-"2015","North Macedonia","Percentage","Males","From 25 to 64 years","2.7",""
-"2015","North Macedonia","Percentage","Females","From 25 to 64 years","2.5",""
-"2015","Serbia","Percentage","Total","From 25 to 64 years","4.8",""
-"2015","Serbia","Percentage","Males","From 25 to 64 years","4.5",""
-"2015","Serbia","Percentage","Females","From 25 to 64 years","5.1",""
-"2015","Turkey","Percentage","Total","From 25 to 64 years","5.5",""
-"2015","Turkey","Percentage","Males","From 25 to 64 years","5.6",""
-"2015","Turkey","Percentage","Females","From 25 to 64 years","5.3",""
-"2016","European Union - 28 countries","Percentage","Total","From 25 to 64 years","10.8",""
-"2016","European Union - 28 countries","Percentage","Males","From 25 to 64 years","9.8",""
-"2016","European Union - 28 countries","Percentage","Females","From 25 to 64 years","11.7",""
-"2016","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","12.5",""
-"2016","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","11.4",""
-"2016","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","13.6",""
-"2016","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","11.2",""
-"2016","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","10.4",""
-"2016","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","12.0",""
-"2016","Belgium","Percentage","Total","From 25 to 64 years","7.0",""
-"2016","Belgium","Percentage","Males","From 25 to 64 years","6.5",""
-"2016","Belgium","Percentage","Females","From 25 to 64 years","7.5",""
-"2016","Bulgaria","Percentage","Total","From 25 to 64 years","2.2",""
-"2016","Bulgaria","Percentage","Males","From 25 to 64 years","2.1",""
-"2016","Bulgaria","Percentage","Females","From 25 to 64 years","2.3",""
-"2016","Czechia","Percentage","Total","From 25 to 64 years","8.8",""
-"2016","Czechia","Percentage","Males","From 25 to 64 years","8.6",""
-"2016","Czechia","Percentage","Females","From 25 to 64 years","9.0",""
-"2016","Denmark","Percentage","Total","From 25 to 64 years","27.7","b"
-"2016","Denmark","Percentage","Males","From 25 to 64 years","22.8","b"
-"2016","Denmark","Percentage","Females","From 25 to 64 years","32.7","b"
-"2016","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","8.5",""
-"2016","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.7",""
-"2016","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","8.3",""
-"2016","Estonia","Percentage","Total","From 25 to 64 years","15.7",""
-"2016","Estonia","Percentage","Males","From 25 to 64 years","12.9",""
-"2016","Estonia","Percentage","Females","From 25 to 64 years","18.4",""
-"2016","Ireland","Percentage","Total","From 25 to 64 years","6.5",""
-"2016","Ireland","Percentage","Males","From 25 to 64 years","6.1",""
-"2016","Ireland","Percentage","Females","From 25 to 64 years","6.8",""
-"2016","Greece","Percentage","Total","From 25 to 64 years","4.0",""
-"2016","Greece","Percentage","Males","From 25 to 64 years","4.0",""
-"2016","Greece","Percentage","Females","From 25 to 64 years","4.0",""
-"2016","Spain","Percentage","Total","From 25 to 64 years","9.4",""
-"2016","Spain","Percentage","Males","From 25 to 64 years","8.6",""
-"2016","Spain","Percentage","Females","From 25 to 64 years","10.2",""
-"2016","France","Percentage","Total","From 25 to 64 years","18.8",""
-"2016","France","Percentage","Males","From 25 to 64 years","16.3",""
-"2016","France","Percentage","Females","From 25 to 64 years","21.2",""
-"2016","Croatia","Percentage","Total","From 25 to 64 years","3.0",""
-"2016","Croatia","Percentage","Males","From 25 to 64 years","3.1",""
-"2016","Croatia","Percentage","Females","From 25 to 64 years","2.9",""
-"2016","Italy","Percentage","Total","From 25 to 64 years","8.3",""
-"2016","Italy","Percentage","Males","From 25 to 64 years","7.8",""
-"2016","Italy","Percentage","Females","From 25 to 64 years","8.7",""
-"2016","Cyprus","Percentage","Total","From 25 to 64 years","6.9",""
-"2016","Cyprus","Percentage","Males","From 25 to 64 years","6.7",""
-"2016","Cyprus","Percentage","Females","From 25 to 64 years","7.1",""
-"2016","Latvia","Percentage","Total","From 25 to 64 years","7.3",""
-"2016","Latvia","Percentage","Males","From 25 to 64 years","6.1",""
-"2016","Latvia","Percentage","Females","From 25 to 64 years","8.5",""
-"2016","Lithuania","Percentage","Total","From 25 to 64 years","6.0",""
-"2016","Lithuania","Percentage","Males","From 25 to 64 years","5.1",""
-"2016","Lithuania","Percentage","Females","From 25 to 64 years","6.8",""
-"2016","Luxembourg","Percentage","Total","From 25 to 64 years","16.8",""
-"2016","Luxembourg","Percentage","Males","From 25 to 64 years","16.7",""
-"2016","Luxembourg","Percentage","Females","From 25 to 64 years","16.9",""
-"2016","Hungary","Percentage","Total","From 25 to 64 years","6.3",""
-"2016","Hungary","Percentage","Males","From 25 to 64 years","5.6",""
-"2016","Hungary","Percentage","Females","From 25 to 64 years","7.0",""
-"2016","Malta","Percentage","Total","From 25 to 64 years","7.8",""
-"2016","Malta","Percentage","Males","From 25 to 64 years","7.0",""
-"2016","Malta","Percentage","Females","From 25 to 64 years","8.7",""
-"2016","Netherlands","Percentage","Total","From 25 to 64 years","18.8",""
-"2016","Netherlands","Percentage","Males","From 25 to 64 years","18.0",""
-"2016","Netherlands","Percentage","Females","From 25 to 64 years","19.6",""
-"2016","Austria","Percentage","Total","From 25 to 64 years","14.9",""
-"2016","Austria","Percentage","Males","From 25 to 64 years","13.5",""
-"2016","Austria","Percentage","Females","From 25 to 64 years","16.3",""
-"2016","Poland","Percentage","Total","From 25 to 64 years","3.7",""
-"2016","Poland","Percentage","Males","From 25 to 64 years","3.4",""
-"2016","Poland","Percentage","Females","From 25 to 64 years","4.0",""
-"2016","Portugal","Percentage","Total","From 25 to 64 years","9.6",""
-"2016","Portugal","Percentage","Males","From 25 to 64 years","9.6",""
-"2016","Portugal","Percentage","Females","From 25 to 64 years","9.7",""
-"2016","Romania","Percentage","Total","From 25 to 64 years","1.2",""
-"2016","Romania","Percentage","Males","From 25 to 64 years","1.2",""
-"2016","Romania","Percentage","Females","From 25 to 64 years","1.2",""
-"2016","Slovenia","Percentage","Total","From 25 to 64 years","11.6",""
-"2016","Slovenia","Percentage","Males","From 25 to 64 years","10.2",""
-"2016","Slovenia","Percentage","Females","From 25 to 64 years","13.2",""
-"2016","Slovakia","Percentage","Total","From 25 to 64 years","2.9",""
-"2016","Slovakia","Percentage","Males","From 25 to 64 years","2.6",""
-"2016","Slovakia","Percentage","Females","From 25 to 64 years","3.2",""
-"2016","Finland","Percentage","Total","From 25 to 64 years","26.4",""
-"2016","Finland","Percentage","Males","From 25 to 64 years","22.6",""
-"2016","Finland","Percentage","Females","From 25 to 64 years","30.3",""
-"2016","Sweden","Percentage","Total","From 25 to 64 years","29.6",""
-"2016","Sweden","Percentage","Males","From 25 to 64 years","22.7",""
-"2016","Sweden","Percentage","Females","From 25 to 64 years","36.7",""
-"2016","United Kingdom","Percentage","Total","From 25 to 64 years","14.4",""
-"2016","United Kingdom","Percentage","Males","From 25 to 64 years","13.0",""
-"2016","United Kingdom","Percentage","Females","From 25 to 64 years","15.8",""
-"2016","Iceland","Percentage","Total","From 25 to 64 years","24.7",""
-"2016","Iceland","Percentage","Males","From 25 to 64 years","21.3",""
-"2016","Iceland","Percentage","Females","From 25 to 64 years","28.3",""
-"2016","Norway","Percentage","Total","From 25 to 64 years","19.6",""
-"2016","Norway","Percentage","Males","From 25 to 64 years","17.9",""
-"2016","Norway","Percentage","Females","From 25 to 64 years","21.4",""
-"2016","Switzerland","Percentage","Total","From 25 to 64 years","31.4",""
-"2016","Switzerland","Percentage","Males","From 25 to 64 years","31.7",""
-"2016","Switzerland","Percentage","Females","From 25 to 64 years","31.1",""
-"2016","Montenegro","Percentage","Total","From 25 to 64 years","3.3",""
-"2016","Montenegro","Percentage","Males","From 25 to 64 years","3.7",""
-"2016","Montenegro","Percentage","Females","From 25 to 64 years","2.9",""
-"2016","North Macedonia","Percentage","Total","From 25 to 64 years","2.9",""
-"2016","North Macedonia","Percentage","Males","From 25 to 64 years","2.8",""
-"2016","North Macedonia","Percentage","Females","From 25 to 64 years","3.0",""
-"2016","Serbia","Percentage","Total","From 25 to 64 years","5.1",""
-"2016","Serbia","Percentage","Males","From 25 to 64 years","4.8",""
-"2016","Serbia","Percentage","Females","From 25 to 64 years","5.5",""
-"2016","Turkey","Percentage","Total","From 25 to 64 years","5.8",""
-"2016","Turkey","Percentage","Males","From 25 to 64 years","6.0",""
-"2016","Turkey","Percentage","Females","From 25 to 64 years","5.6",""
-"2017","European Union - 28 countries","Percentage","Total","From 25 to 64 years","10.9",""
-"2017","European Union - 28 countries","Percentage","Males","From 25 to 64 years","10.0",""
-"2017","European Union - 28 countries","Percentage","Females","From 25 to 64 years","11.8",""
-"2017","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","12.6",""
-"2017","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","11.5",""
-"2017","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","13.7",""
-"2017","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","11.3",""
-"2017","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","10.5",""
-"2017","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","12.1",""
-"2017","Belgium","Percentage","Total","From 25 to 64 years","8.5","b"
-"2017","Belgium","Percentage","Males","From 25 to 64 years","8.1","b"
-"2017","Belgium","Percentage","Females","From 25 to 64 years","8.8","b"
-"2017","Bulgaria","Percentage","Total","From 25 to 64 years","2.3",""
-"2017","Bulgaria","Percentage","Males","From 25 to 64 years","2.2",""
-"2017","Bulgaria","Percentage","Females","From 25 to 64 years","2.4",""
-"2017","Czechia","Percentage","Total","From 25 to 64 years","9.8",""
-"2017","Czechia","Percentage","Males","From 25 to 64 years","9.6",""
-"2017","Czechia","Percentage","Females","From 25 to 64 years","10.0",""
-"2017","Denmark","Percentage","Total","From 25 to 64 years","26.8","b"
-"2017","Denmark","Percentage","Males","From 25 to 64 years","22.3","b"
-"2017","Denmark","Percentage","Females","From 25 to 64 years","31.4","b"
-"2017","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","8.4",""
-"2017","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.7",""
-"2017","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","8.1",""
-"2017","Estonia","Percentage","Total","From 25 to 64 years","17.2",""
-"2017","Estonia","Percentage","Males","From 25 to 64 years","13.7",""
-"2017","Estonia","Percentage","Females","From 25 to 64 years","20.6",""
-"2017","Ireland","Percentage","Total","From 25 to 64 years","9.0","b"
-"2017","Ireland","Percentage","Males","From 25 to 64 years","7.9","b"
-"2017","Ireland","Percentage","Females","From 25 to 64 years","10.0","b"
-"2017","Greece","Percentage","Total","From 25 to 64 years","4.5",""
-"2017","Greece","Percentage","Males","From 25 to 64 years","4.7",""
-"2017","Greece","Percentage","Females","From 25 to 64 years","4.4",""
-"2017","Spain","Percentage","Total","From 25 to 64 years","9.9",""
-"2017","Spain","Percentage","Males","From 25 to 64 years","9.2",""
-"2017","Spain","Percentage","Females","From 25 to 64 years","10.6",""
-"2017","France","Percentage","Total","From 25 to 64 years","18.7",""
-"2017","France","Percentage","Males","From 25 to 64 years","16.2",""
-"2017","France","Percentage","Females","From 25 to 64 years","21.1",""
-"2017","Croatia","Percentage","Total","From 25 to 64 years","2.3",""
-"2017","Croatia","Percentage","Males","From 25 to 64 years","2.1",""
-"2017","Croatia","Percentage","Females","From 25 to 64 years","2.6",""
-"2017","Italy","Percentage","Total","From 25 to 64 years","7.9",""
-"2017","Italy","Percentage","Males","From 25 to 64 years","7.5",""
-"2017","Italy","Percentage","Females","From 25 to 64 years","8.4",""
-"2017","Cyprus","Percentage","Total","From 25 to 64 years","6.9",""
-"2017","Cyprus","Percentage","Males","From 25 to 64 years","6.7",""
-"2017","Cyprus","Percentage","Females","From 25 to 64 years","7.1",""
-"2017","Latvia","Percentage","Total","From 25 to 64 years","7.5",""
-"2017","Latvia","Percentage","Males","From 25 to 64 years","6.0",""
-"2017","Latvia","Percentage","Females","From 25 to 64 years","8.8",""
-"2017","Lithuania","Percentage","Total","From 25 to 64 years","5.9",""
-"2017","Lithuania","Percentage","Males","From 25 to 64 years","4.4",""
-"2017","Lithuania","Percentage","Females","From 25 to 64 years","7.3",""
-"2017","Luxembourg","Percentage","Total","From 25 to 64 years","17.2",""
-"2017","Luxembourg","Percentage","Males","From 25 to 64 years","16.9",""
-"2017","Luxembourg","Percentage","Females","From 25 to 64 years","17.6",""
-"2017","Hungary","Percentage","Total","From 25 to 64 years","6.2",""
-"2017","Hungary","Percentage","Males","From 25 to 64 years","5.9",""
-"2017","Hungary","Percentage","Females","From 25 to 64 years","6.4",""
-"2017","Malta","Percentage","Total","From 25 to 64 years","10.6","b"
-"2017","Malta","Percentage","Males","From 25 to 64 years","9.5","b"
-"2017","Malta","Percentage","Females","From 25 to 64 years","11.9","b"
-"2017","Netherlands","Percentage","Total","From 25 to 64 years","19.1",""
-"2017","Netherlands","Percentage","Males","From 25 to 64 years","18.2",""
-"2017","Netherlands","Percentage","Females","From 25 to 64 years","20.1",""
-"2017","Austria","Percentage","Total","From 25 to 64 years","15.8",""
-"2017","Austria","Percentage","Males","From 25 to 64 years","14.2",""
-"2017","Austria","Percentage","Females","From 25 to 64 years","17.3",""
-"2017","Poland","Percentage","Total","From 25 to 64 years","4.0",""
-"2017","Poland","Percentage","Males","From 25 to 64 years","3.5",""
-"2017","Poland","Percentage","Females","From 25 to 64 years","4.4",""
-"2017","Portugal","Percentage","Total","From 25 to 64 years","9.8",""
-"2017","Portugal","Percentage","Males","From 25 to 64 years","9.6",""
-"2017","Portugal","Percentage","Females","From 25 to 64 years","10.0",""
-"2017","Romania","Percentage","Total","From 25 to 64 years","1.1",""
-"2017","Romania","Percentage","Males","From 25 to 64 years","1.1",""
-"2017","Romania","Percentage","Females","From 25 to 64 years","1.0",""
-"2017","Slovenia","Percentage","Total","From 25 to 64 years","12.0",""
-"2017","Slovenia","Percentage","Males","From 25 to 64 years","10.0",""
-"2017","Slovenia","Percentage","Females","From 25 to 64 years","14.1",""
-"2017","Slovakia","Percentage","Total","From 25 to 64 years","3.4",""
-"2017","Slovakia","Percentage","Males","From 25 to 64 years","3.5",""
-"2017","Slovakia","Percentage","Females","From 25 to 64 years","3.3",""
-"2017","Finland","Percentage","Total","From 25 to 64 years","27.4",""
-"2017","Finland","Percentage","Males","From 25 to 64 years","23.3",""
-"2017","Finland","Percentage","Females","From 25 to 64 years","31.5",""
-"2017","Sweden","Percentage","Total","From 25 to 64 years","30.4",""
-"2017","Sweden","Percentage","Males","From 25 to 64 years","23.7",""
-"2017","Sweden","Percentage","Females","From 25 to 64 years","37.5",""
-"2017","United Kingdom","Percentage","Total","From 25 to 64 years","14.3",""
-"2017","United Kingdom","Percentage","Males","From 25 to 64 years","12.9",""
-"2017","United Kingdom","Percentage","Females","From 25 to 64 years","15.8",""
-"2017","Iceland","Percentage","Total","From 25 to 64 years","23.6",""
-"2017","Iceland","Percentage","Males","From 25 to 64 years","20.4",""
-"2017","Iceland","Percentage","Females","From 25 to 64 years","26.8",""
-"2017","Norway","Percentage","Total","From 25 to 64 years","19.9",""
-"2017","Norway","Percentage","Males","From 25 to 64 years","18.3",""
-"2017","Norway","Percentage","Females","From 25 to 64 years","21.6",""
-"2017","Switzerland","Percentage","Total","From 25 to 64 years","31.2",""
-"2017","Switzerland","Percentage","Males","From 25 to 64 years","31.9",""
-"2017","Switzerland","Percentage","Females","From 25 to 64 years","30.5",""
-"2017","Montenegro","Percentage","Total","From 25 to 64 years","2.8",""
-"2017","Montenegro","Percentage","Males","From 25 to 64 years","3.1",""
-"2017","Montenegro","Percentage","Females","From 25 to 64 years","2.5",""
-"2017","North Macedonia","Percentage","Total","From 25 to 64 years","2.3",""
-"2017","North Macedonia","Percentage","Males","From 25 to 64 years","2.4",""
-"2017","North Macedonia","Percentage","Females","From 25 to 64 years","2.2",""
-"2017","Serbia","Percentage","Total","From 25 to 64 years","4.4",""
-"2017","Serbia","Percentage","Males","From 25 to 64 years","4.2",""
-"2017","Serbia","Percentage","Females","From 25 to 64 years","4.6",""
-"2017","Turkey","Percentage","Total","From 25 to 64 years","5.8",""
-"2017","Turkey","Percentage","Males","From 25 to 64 years","6.1",""
-"2017","Turkey","Percentage","Females","From 25 to 64 years","5.6",""
-"2018","European Union - 28 countries","Percentage","Total","From 25 to 64 years","11.1",""
-"2018","European Union - 28 countries","Percentage","Males","From 25 to 64 years","10.1",""
-"2018","European Union - 28 countries","Percentage","Females","From 25 to 64 years","12.1",""
-"2018","European Union - 15 countries (1995-2004)","Percentage","Total","From 25 to 64 years","12.7",""
-"2018","European Union - 15 countries (1995-2004)","Percentage","Males","From 25 to 64 years","11.5",""
-"2018","European Union - 15 countries (1995-2004)","Percentage","Females","From 25 to 64 years","13.9",""
-"2018","Euro area (19 countries)","Percentage","Total","From 25 to 64 years","11.5",""
-"2018","Euro area (19 countries)","Percentage","Males","From 25 to 64 years","10.6",""
-"2018","Euro area (19 countries)","Percentage","Females","From 25 to 64 years","12.3",""
-"2018","Belgium","Percentage","Total","From 25 to 64 years","8.5",""
-"2018","Belgium","Percentage","Males","From 25 to 64 years","8.1",""
-"2018","Belgium","Percentage","Females","From 25 to 64 years","9.0",""
-"2018","Bulgaria","Percentage","Total","From 25 to 64 years","2.5",""
-"2018","Bulgaria","Percentage","Males","From 25 to 64 years","2.4",""
-"2018","Bulgaria","Percentage","Females","From 25 to 64 years","2.6",""
-"2018","Czechia","Percentage","Total","From 25 to 64 years","8.5",""
-"2018","Czechia","Percentage","Males","From 25 to 64 years","8.3",""
-"2018","Czechia","Percentage","Females","From 25 to 64 years","8.7",""
-"2018","Denmark","Percentage","Total","From 25 to 64 years","23.5",""
-"2018","Denmark","Percentage","Males","From 25 to 64 years","19.2",""
-"2018","Denmark","Percentage","Females","From 25 to 64 years","27.8",""
-"2018","Germany (until 1990 former territory of the FRG)","Percentage","Total","From 25 to 64 years","8.2",""
-"2018","Germany (until 1990 former territory of the FRG)","Percentage","Males","From 25 to 64 years","8.5",""
-"2018","Germany (until 1990 former territory of the FRG)","Percentage","Females","From 25 to 64 years","8.0",""
-"2018","Estonia","Percentage","Total","From 25 to 64 years","19.7",""
-"2018","Estonia","Percentage","Males","From 25 to 64 years","16.2",""
-"2018","Estonia","Percentage","Females","From 25 to 64 years","23.2",""
-"2018","Ireland","Percentage","Total","From 25 to 64 years","12.5",""
-"2018","Ireland","Percentage","Males","From 25 to 64 years","10.3",""
-"2018","Ireland","Percentage","Females","From 25 to 64 years","14.6",""
-"2018","Greece","Percentage","Total","From 25 to 64 years","4.5",""
-"2018","Greece","Percentage","Males","From 25 to 64 years","4.5",""
-"2018","Greece","Percentage","Females","From 25 to 64 years","4.5",""
-"2018","Spain","Percentage","Total","From 25 to 64 years","10.5",""
-"2018","Spain","Percentage","Males","From 25 to 64 years","9.5",""
-"2018","Spain","Percentage","Females","From 25 to 64 years","11.5",""
-"2018","France","Percentage","Total","From 25 to 64 years","18.6",""
-"2018","France","Percentage","Males","From 25 to 64 years","15.9",""
-"2018","France","Percentage","Females","From 25 to 64 years","21.0",""
-"2018","Croatia","Percentage","Total","From 25 to 64 years","2.9",""
-"2018","Croatia","Percentage","Males","From 25 to 64 years","2.4",""
-"2018","Croatia","Percentage","Females","From 25 to 64 years","3.4",""
-"2018","Italy","Percentage","Total","From 25 to 64 years","8.1",""
-"2018","Italy","Percentage","Males","From 25 to 64 years","7.6",""
-"2018","Italy","Percentage","Females","From 25 to 64 years","8.6",""
-"2018","Cyprus","Percentage","Total","From 25 to 64 years","6.7",""
-"2018","Cyprus","Percentage","Males","From 25 to 64 years","6.8",""
-"2018","Cyprus","Percentage","Females","From 25 to 64 years","6.6",""
-"2018","Latvia","Percentage","Total","From 25 to 64 years","6.7",""
-"2018","Latvia","Percentage","Males","From 25 to 64 years","4.8",""
-"2018","Latvia","Percentage","Females","From 25 to 64 years","8.4",""
-"2018","Lithuania","Percentage","Total","From 25 to 64 years","6.6",""
-"2018","Lithuania","Percentage","Males","From 25 to 64 years","4.9",""
-"2018","Lithuania","Percentage","Females","From 25 to 64 years","8.3",""
-"2018","Luxembourg","Percentage","Total","From 25 to 64 years","18.0",""
-"2018","Luxembourg","Percentage","Males","From 25 to 64 years","17.6",""
-"2018","Luxembourg","Percentage","Females","From 25 to 64 years","18.4",""
-"2018","Hungary","Percentage","Total","From 25 to 64 years","6.0",""
-"2018","Hungary","Percentage","Males","From 25 to 64 years","5.6",""
-"2018","Hungary","Percentage","Females","From 25 to 64 years","6.4",""
-"2018","Malta","Percentage","Total","From 25 to 64 years","10.8",""
-"2018","Malta","Percentage","Males","From 25 to 64 years","9.3",""
-"2018","Malta","Percentage","Females","From 25 to 64 years","12.4",""
-"2018","Netherlands","Percentage","Total","From 25 to 64 years","19.1",""
-"2018","Netherlands","Percentage","Males","From 25 to 64 years","18.3",""
-"2018","Netherlands","Percentage","Females","From 25 to 64 years","20.0",""
-"2018","Austria","Percentage","Total","From 25 to 64 years","15.1",""
-"2018","Austria","Percentage","Males","From 25 to 64 years","13.7",""
-"2018","Austria","Percentage","Females","From 25 to 64 years","16.5",""
-"2018","Poland","Percentage","Total","From 25 to 64 years","5.7","b"
-"2018","Poland","Percentage","Males","From 25 to 64 years","5.1","b"
-"2018","Poland","Percentage","Females","From 25 to 64 years","6.3","b"
-"2018","Portugal","Percentage","Total","From 25 to 64 years","10.3",""
-"2018","Portugal","Percentage","Males","From 25 to 64 years","9.8",""
-"2018","Portugal","Percentage","Females","From 25 to 64 years","10.8",""
-"2018","Romania","Percentage","Total","From 25 to 64 years","0.9",""
-"2018","Romania","Percentage","Males","From 25 to 64 years","1.0",""
-"2018","Romania","Percentage","Females","From 25 to 64 years","0.9",""
-"2018","Slovenia","Percentage","Total","From 25 to 64 years","11.4",""
-"2018","Slovenia","Percentage","Males","From 25 to 64 years","9.4",""
-"2018","Slovenia","Percentage","Females","From 25 to 64 years","13.5",""
-"2018","Slovakia","Percentage","Total","From 25 to 64 years","4.0",""
-"2018","Slovakia","Percentage","Males","From 25 to 64 years","4.2",""
-"2018","Slovakia","Percentage","Females","From 25 to 64 years","3.8",""
-"2018","Finland","Percentage","Total","From 25 to 64 years","28.5",""
-"2018","Finland","Percentage","Males","From 25 to 64 years","24.7",""
-"2018","Finland","Percentage","Females","From 25 to 64 years","32.4",""
-"2018","Sweden","Percentage","Total","From 25 to 64 years","29.2",""
-"2018","Sweden","Percentage","Males","From 25 to 64 years","22.4",""
-"2018","Sweden","Percentage","Females","From 25 to 64 years","36.1",""
-"2018","United Kingdom","Percentage","Total","From 25 to 64 years","14.6",""
-"2018","United Kingdom","Percentage","Males","From 25 to 64 years","12.9",""
-"2018","United Kingdom","Percentage","Females","From 25 to 64 years","16.2",""
-"2018","Iceland","Percentage","Total","From 25 to 64 years","21.5",""
-"2018","Iceland","Percentage","Males","From 25 to 64 years","18.3",""
-"2018","Iceland","Percentage","Females","From 25 to 64 years","25.0",""
-"2018","Norway","Percentage","Total","From 25 to 64 years","19.7",""
-"2018","Norway","Percentage","Males","From 25 to 64 years","17.5",""
-"2018","Norway","Percentage","Females","From 25 to 64 years","22.1",""
-"2018","Switzerland","Percentage","Total","From 25 to 64 years","31.6",""
-"2018","Switzerland","Percentage","Males","From 25 to 64 years","32.4",""
-"2018","Switzerland","Percentage","Females","From 25 to 64 years","30.9",""
-"2018","Montenegro","Percentage","Total","From 25 to 64 years","3.2",""
-"2018","Montenegro","Percentage","Males","From 25 to 64 years","3.3",""
-"2018","Montenegro","Percentage","Females","From 25 to 64 years","3.0",""
-"2018","North Macedonia","Percentage","Total","From 25 to 64 years","2.4",""
-"2018","North Macedonia","Percentage","Males","From 25 to 64 years","2.4",""
-"2018","North Macedonia","Percentage","Females","From 25 to 64 years","2.3",""
-"2018","Serbia","Percentage","Total","From 25 to 64 years","4.1",""
-"2018","Serbia","Percentage","Males","From 25 to 64 years","3.7",""
-"2018","Serbia","Percentage","Females","From 25 to 64 years","4.5",""
-"2018","Turkey","Percentage","Total","From 25 to 64 years","6.2",""
-"2018","Turkey","Percentage","Males","From 25 to 64 years","6.3",""
-"2018","Turkey","Percentage","Females","From 25 to 64 years","6.0",""
+no,TIME,GEO,COUNTRY,UNIT,SEX,Value
+67,2009,Austria,AT,Percentage,Total,13.9
+68,2009,Austria,AT,Percentage,Males,12.9
+69,2009,Austria,AT,Percentage,Females,14.9
+181,2010,Austria,AT,Percentage,Total,13.8
+182,2010,Austria,AT,Percentage,Males,12.8
+183,2010,Austria,AT,Percentage,Females,14.9
+295,2011,Austria,AT,Percentage,Total,13.5
+296,2011,Austria,AT,Percentage,Males,12.3
+297,2011,Austria,AT,Percentage,Females,14.6
+409,2012,Austria,AT,Percentage,Total,14.2
+410,2012,Austria,AT,Percentage,Males,13.2
+411,2012,Austria,AT,Percentage,Females,15.3
+523,2013,Austria,AT,Percentage,Total,14.1
+524,2013,Austria,AT,Percentage,Males,12.8
+525,2013,Austria,AT,Percentage,Females,15.4
+637,2014,Austria,AT,Percentage,Total,14.3
+638,2014,Austria,AT,Percentage,Males,13.2
+639,2014,Austria,AT,Percentage,Females,15.4
+751,2015,Austria,AT,Percentage,Total,14.4
+752,2015,Austria,AT,Percentage,Males,13.3
+753,2015,Austria,AT,Percentage,Females,15.4
+865,2016,Austria,AT,Percentage,Total,14.9
+866,2016,Austria,AT,Percentage,Males,13.5
+867,2016,Austria,AT,Percentage,Females,16.3
+979,2017,Austria,AT,Percentage,Total,15.8
+980,2017,Austria,AT,Percentage,Males,14.2
+981,2017,Austria,AT,Percentage,Females,17.3
+1093,2018,Austria,AT,Percentage,Total,15.1
+1094,2018,Austria,AT,Percentage,Males,13.7
+1095,2018,Austria,AT,Percentage,Females,16.5
+10,2009,Belgium,BE,Percentage,Total,7.1
+11,2009,Belgium,BE,Percentage,Males,6.6
+12,2009,Belgium,BE,Percentage,Females,7.5
+124,2010,Belgium,BE,Percentage,Total,7.4
+125,2010,Belgium,BE,Percentage,Males,7.2
+126,2010,Belgium,BE,Percentage,Females,7.6
+238,2011,Belgium,BE,Percentage,Total,7.4
+239,2011,Belgium,BE,Percentage,Males,7
+240,2011,Belgium,BE,Percentage,Females,7.8
+352,2012,Belgium,BE,Percentage,Total,6.9
+353,2012,Belgium,BE,Percentage,Males,6.5
+354,2012,Belgium,BE,Percentage,Females,7.3
+466,2013,Belgium,BE,Percentage,Total,6.9
+467,2013,Belgium,BE,Percentage,Males,6.7
+468,2013,Belgium,BE,Percentage,Females,7.1
+580,2014,Belgium,BE,Percentage,Total,7.4
+581,2014,Belgium,BE,Percentage,Males,6.9
+582,2014,Belgium,BE,Percentage,Females,7.9
+694,2015,Belgium,BE,Percentage,Total,6.9
+695,2015,Belgium,BE,Percentage,Males,6.5
+696,2015,Belgium,BE,Percentage,Females,7.3
+808,2016,Belgium,BE,Percentage,Total,7
+809,2016,Belgium,BE,Percentage,Males,6.5
+810,2016,Belgium,BE,Percentage,Females,7.5
+922,2017,Belgium,BE,Percentage,Total,8.5
+923,2017,Belgium,BE,Percentage,Males,8.1
+924,2017,Belgium,BE,Percentage,Females,8.8
+1036,2018,Belgium,BE,Percentage,Total,8.5
+1037,2018,Belgium,BE,Percentage,Males,8.1
+1038,2018,Belgium,BE,Percentage,Females,9
+13,2009,Bulgaria,BG,Percentage,Total,1.6
+14,2009,Bulgaria,BG,Percentage,Males,1.4
+15,2009,Bulgaria,BG,Percentage,Females,1.7
+127,2010,Bulgaria,BG,Percentage,Total,1.6
+128,2010,Bulgaria,BG,Percentage,Males,1.5
+129,2010,Bulgaria,BG,Percentage,Females,1.7
+241,2011,Bulgaria,BG,Percentage,Total,1.6
+242,2011,Bulgaria,BG,Percentage,Males,1.5
+243,2011,Bulgaria,BG,Percentage,Females,1.6
+355,2012,Bulgaria,BG,Percentage,Total,1.7
+356,2012,Bulgaria,BG,Percentage,Males,1.7
+357,2012,Bulgaria,BG,Percentage,Females,1.8
+469,2013,Bulgaria,BG,Percentage,Total,2
+470,2013,Bulgaria,BG,Percentage,Males,1.9
+471,2013,Bulgaria,BG,Percentage,Females,2.1
+583,2014,Bulgaria,BG,Percentage,Total,2.1
+584,2014,Bulgaria,BG,Percentage,Males,1.8
+585,2014,Bulgaria,BG,Percentage,Females,2.3
+697,2015,Bulgaria,BG,Percentage,Total,2
+698,2015,Bulgaria,BG,Percentage,Males,1.9
+699,2015,Bulgaria,BG,Percentage,Females,2.1
+811,2016,Bulgaria,BG,Percentage,Total,2.2
+812,2016,Bulgaria,BG,Percentage,Males,2.1
+813,2016,Bulgaria,BG,Percentage,Females,2.3
+925,2017,Bulgaria,BG,Percentage,Total,2.3
+926,2017,Bulgaria,BG,Percentage,Males,2.2
+927,2017,Bulgaria,BG,Percentage,Females,2.4
+1039,2018,Bulgaria,BG,Percentage,Total,2.5
+1040,2018,Bulgaria,BG,Percentage,Males,2.4
+1041,2018,Bulgaria,BG,Percentage,Females,2.6
+40,2009,Croatia,HR,Percentage,Total,3
+41,2009,Croatia,HR,Percentage,Males,3.2
+42,2009,Croatia,HR,Percentage,Females,2.9
+154,2010,Croatia,HR,Percentage,Total,3
+155,2010,Croatia,HR,Percentage,Males,3
+156,2010,Croatia,HR,Percentage,Females,3
+268,2011,Croatia,HR,Percentage,Total,3.1
+269,2011,Croatia,HR,Percentage,Males,2.9
+270,2011,Croatia,HR,Percentage,Females,3.3
+382,2012,Croatia,HR,Percentage,Total,3.3
+383,2012,Croatia,HR,Percentage,Males,2.9
+384,2012,Croatia,HR,Percentage,Females,3.7
+496,2013,Croatia,HR,Percentage,Total,3.1
+497,2013,Croatia,HR,Percentage,Males,3
+498,2013,Croatia,HR,Percentage,Females,3.3
+610,2014,Croatia,HR,Percentage,Total,2.8
+611,2014,Croatia,HR,Percentage,Males,2.6
+612,2014,Croatia,HR,Percentage,Females,3
+724,2015,Croatia,HR,Percentage,Total,3.1
+725,2015,Croatia,HR,Percentage,Males,2.7
+726,2015,Croatia,HR,Percentage,Females,3.6
+838,2016,Croatia,HR,Percentage,Total,3
+839,2016,Croatia,HR,Percentage,Males,3.1
+840,2016,Croatia,HR,Percentage,Females,2.9
+952,2017,Croatia,HR,Percentage,Total,2.3
+953,2017,Croatia,HR,Percentage,Males,2.1
+954,2017,Croatia,HR,Percentage,Females,2.6
+1066,2018,Croatia,HR,Percentage,Total,2.9
+1067,2018,Croatia,HR,Percentage,Males,2.4
+1068,2018,Croatia,HR,Percentage,Females,3.4
+46,2009,Cyprus,CY,Percentage,Total,8.3
+47,2009,Cyprus,CY,Percentage,Males,8.4
+48,2009,Cyprus,CY,Percentage,Females,8.2
+160,2010,Cyprus,CY,Percentage,Total,8.1
+161,2010,Cyprus,CY,Percentage,Males,7.9
+162,2010,Cyprus,CY,Percentage,Females,8.2
+274,2011,Cyprus,CY,Percentage,Total,7.8
+275,2011,Cyprus,CY,Percentage,Males,7.7
+276,2011,Cyprus,CY,Percentage,Females,7.9
+388,2012,Cyprus,CY,Percentage,Total,7.7
+389,2012,Cyprus,CY,Percentage,Males,7.4
+390,2012,Cyprus,CY,Percentage,Females,8
+502,2013,Cyprus,CY,Percentage,Total,7.2
+503,2013,Cyprus,CY,Percentage,Males,7
+504,2013,Cyprus,CY,Percentage,Females,7.4
+616,2014,Cyprus,CY,Percentage,Total,7.1
+617,2014,Cyprus,CY,Percentage,Males,6.7
+618,2014,Cyprus,CY,Percentage,Females,7.5
+730,2015,Cyprus,CY,Percentage,Total,7.5
+731,2015,Cyprus,CY,Percentage,Males,6.9
+732,2015,Cyprus,CY,Percentage,Females,7.9
+844,2016,Cyprus,CY,Percentage,Total,6.9
+845,2016,Cyprus,CY,Percentage,Males,6.7
+846,2016,Cyprus,CY,Percentage,Females,7.1
+958,2017,Cyprus,CY,Percentage,Total,6.9
+959,2017,Cyprus,CY,Percentage,Males,6.7
+960,2017,Cyprus,CY,Percentage,Females,7.1
+1072,2018,Cyprus,CY,Percentage,Total,6.7
+1073,2018,Cyprus,CY,Percentage,Males,6.8
+1074,2018,Cyprus,CY,Percentage,Females,6.6
+16,2009,Czechia,CZ,Percentage,Total,7.1
+17,2009,Czechia,CZ,Percentage,Males,6.9
+18,2009,Czechia,CZ,Percentage,Females,7.3
+130,2010,Czechia,CZ,Percentage,Total,7.8
+131,2010,Czechia,CZ,Percentage,Males,7.6
+132,2010,Czechia,CZ,Percentage,Females,8
+244,2011,Czechia,CZ,Percentage,Total,11.6
+245,2011,Czechia,CZ,Percentage,Males,11.4
+246,2011,Czechia,CZ,Percentage,Females,11.9
+358,2012,Czechia,CZ,Percentage,Total,11.1
+359,2012,Czechia,CZ,Percentage,Males,10.8
+360,2012,Czechia,CZ,Percentage,Females,11.4
+472,2013,Czechia,CZ,Percentage,Total,10
+473,2013,Czechia,CZ,Percentage,Males,10
+474,2013,Czechia,CZ,Percentage,Females,9.9
+586,2014,Czechia,CZ,Percentage,Total,9.6
+587,2014,Czechia,CZ,Percentage,Males,9.3
+588,2014,Czechia,CZ,Percentage,Females,9.8
+700,2015,Czechia,CZ,Percentage,Total,8.5
+701,2015,Czechia,CZ,Percentage,Males,8.3
+702,2015,Czechia,CZ,Percentage,Females,8.6
+814,2016,Czechia,CZ,Percentage,Total,8.8
+815,2016,Czechia,CZ,Percentage,Males,8.6
+816,2016,Czechia,CZ,Percentage,Females,9
+928,2017,Czechia,CZ,Percentage,Total,9.8
+929,2017,Czechia,CZ,Percentage,Males,9.6
+930,2017,Czechia,CZ,Percentage,Females,10
+1042,2018,Czechia,CZ,Percentage,Total,8.5
+1043,2018,Czechia,CZ,Percentage,Males,8.3
+1044,2018,Czechia,CZ,Percentage,Females,8.7
+19,2009,Denmark,DK,Percentage,Total,31.3
+20,2009,Denmark,DK,Percentage,Males,25.3
+21,2009,Denmark,DK,Percentage,Females,37.3
+133,2010,Denmark,DK,Percentage,Total,32.6
+134,2010,Denmark,DK,Percentage,Males,26
+135,2010,Denmark,DK,Percentage,Females,39.2
+247,2011,Denmark,DK,Percentage,Total,32.3
+248,2011,Denmark,DK,Percentage,Males,25.6
+249,2011,Denmark,DK,Percentage,Females,39
+361,2012,Denmark,DK,Percentage,Total,31.6
+362,2012,Denmark,DK,Percentage,Males,25.4
+363,2012,Denmark,DK,Percentage,Females,37.8
+475,2013,Denmark,DK,Percentage,Total,31.4
+476,2013,Denmark,DK,Percentage,Males,25.7
+477,2013,Denmark,DK,Percentage,Females,37.2
+589,2014,Denmark,DK,Percentage,Total,31.9
+590,2014,Denmark,DK,Percentage,Males,26.1
+591,2014,Denmark,DK,Percentage,Females,37.7
+703,2015,Denmark,DK,Percentage,Total,31.3
+704,2015,Denmark,DK,Percentage,Males,25.3
+705,2015,Denmark,DK,Percentage,Females,37.3
+817,2016,Denmark,DK,Percentage,Total,27.7
+818,2016,Denmark,DK,Percentage,Males,22.8
+819,2016,Denmark,DK,Percentage,Females,32.7
+931,2017,Denmark,DK,Percentage,Total,26.8
+932,2017,Denmark,DK,Percentage,Males,22.3
+933,2017,Denmark,DK,Percentage,Females,31.4
+1045,2018,Denmark,DK,Percentage,Total,23.5
+1046,2018,Denmark,DK,Percentage,Males,19.2
+1047,2018,Denmark,DK,Percentage,Females,27.8
+25,2009,Estonia,EE,Percentage,Total,10.5
+26,2009,Estonia,EE,Percentage,Males,7.5
+27,2009,Estonia,EE,Percentage,Females,13.3
+139,2010,Estonia,EE,Percentage,Total,11
+140,2010,Estonia,EE,Percentage,Males,8.6
+141,2010,Estonia,EE,Percentage,Females,13.1
+253,2011,Estonia,EE,Percentage,Total,11.9
+254,2011,Estonia,EE,Percentage,Males,9.2
+255,2011,Estonia,EE,Percentage,Females,14.5
+367,2012,Estonia,EE,Percentage,Total,12.8
+368,2012,Estonia,EE,Percentage,Males,10.7
+369,2012,Estonia,EE,Percentage,Females,14.8
+481,2013,Estonia,EE,Percentage,Total,12.6
+482,2013,Estonia,EE,Percentage,Males,9.8
+483,2013,Estonia,EE,Percentage,Females,15.3
+595,2014,Estonia,EE,Percentage,Total,11.6
+596,2014,Estonia,EE,Percentage,Males,9.2
+597,2014,Estonia,EE,Percentage,Females,13.9
+709,2015,Estonia,EE,Percentage,Total,12.4
+710,2015,Estonia,EE,Percentage,Males,10.6
+711,2015,Estonia,EE,Percentage,Females,14.1
+823,2016,Estonia,EE,Percentage,Total,15.7
+824,2016,Estonia,EE,Percentage,Males,12.9
+825,2016,Estonia,EE,Percentage,Females,18.4
+937,2017,Estonia,EE,Percentage,Total,17.2
+938,2017,Estonia,EE,Percentage,Males,13.7
+939,2017,Estonia,EE,Percentage,Females,20.6
+1051,2018,Estonia,EE,Percentage,Total,19.7
+1052,2018,Estonia,EE,Percentage,Males,16.2
+1053,2018,Estonia,EE,Percentage,Females,23.2
+7,2009,Euro area (19 countries),EU19,Percentage,Total,8.1
+8,2009,Euro area (19 countries),EU19,Percentage,Males,7.7
+9,2009,Euro area (19 countries),EU19,Percentage,Females,8.6
+121,2010,Euro area (19 countries),EU19,Percentage,Total,8.1
+122,2010,Euro area (19 countries),EU19,Percentage,Males,7.6
+123,2010,Euro area (19 countries),EU19,Percentage,Females,8.5
+235,2011,Euro area (19 countries),EU19,Percentage,Total,8.3
+236,2011,Euro area (19 countries),EU19,Percentage,Males,7.9
+237,2011,Euro area (19 countries),EU19,Percentage,Females,8.7
+349,2012,Euro area (19 countries),EU19,Percentage,Total,8.5
+350,2012,Euro area (19 countries),EU19,Percentage,Males,8.1
+351,2012,Euro area (19 countries),EU19,Percentage,Females,8.9
+463,2013,Euro area (19 countries),EU19,Percentage,Total,10.6
+464,2013,Euro area (19 countries),EU19,Percentage,Males,9.8
+465,2013,Euro area (19 countries),EU19,Percentage,Females,11.4
+577,2014,Euro area (19 countries),EU19,Percentage,Total,10.9
+578,2014,Euro area (19 countries),EU19,Percentage,Males,10.2
+579,2014,Euro area (19 countries),EU19,Percentage,Females,11.7
+691,2015,Euro area (19 countries),EU19,Percentage,Total,10.9
+692,2015,Euro area (19 countries),EU19,Percentage,Males,10
+693,2015,Euro area (19 countries),EU19,Percentage,Females,11.7
+805,2016,Euro area (19 countries),EU19,Percentage,Total,11.2
+806,2016,Euro area (19 countries),EU19,Percentage,Males,10.4
+807,2016,Euro area (19 countries),EU19,Percentage,Females,12
+919,2017,Euro area (19 countries),EU19,Percentage,Total,11.3
+920,2017,Euro area (19 countries),EU19,Percentage,Males,10.5
+921,2017,Euro area (19 countries),EU19,Percentage,Females,12.1
+1033,2018,Euro area (19 countries),EU19,Percentage,Total,11.5
+1034,2018,Euro area (19 countries),EU19,Percentage,Males,10.6
+1035,2018,Euro area (19 countries),EU19,Percentage,Females,12.3
+4,2009,European Union - 15 countries (1995-2004),EU15,Percentage,Total,10.9
+5,2009,European Union - 15 countries (1995-2004),EU15,Percentage,Males,9.9
+6,2009,European Union - 15 countries (1995-2004),EU15,Percentage,Females,12
+118,2010,European Union - 15 countries (1995-2004),EU15,Percentage,Total,10.7
+119,2010,European Union - 15 countries (1995-2004),EU15,Percentage,Males,9.6
+120,2010,European Union - 15 countries (1995-2004),EU15,Percentage,Females,11.7
+232,2011,European Union - 15 countries (1995-2004),EU15,Percentage,Total,10.3
+233,2011,European Union - 15 countries (1995-2004),EU15,Percentage,Males,9.4
+234,2011,European Union - 15 countries (1995-2004),EU15,Percentage,Females,11.1
+346,2012,European Union - 15 countries (1995-2004),EU15,Percentage,Total,10.5
+347,2012,European Union - 15 countries (1995-2004),EU15,Percentage,Males,9.7
+348,2012,European Union - 15 countries (1995-2004),EU15,Percentage,Females,11.3
+460,2013,European Union - 15 countries (1995-2004),EU15,Percentage,Total,12.4
+461,2013,European Union - 15 countries (1995-2004),EU15,Percentage,Males,11.3
+462,2013,European Union - 15 countries (1995-2004),EU15,Percentage,Females,13.5
+574,2014,European Union - 15 countries (1995-2004),EU15,Percentage,Total,12.7
+575,2014,European Union - 15 countries (1995-2004),EU15,Percentage,Males,11.6
+576,2014,European Union - 15 countries (1995-2004),EU15,Percentage,Females,13.8
+688,2015,European Union - 15 countries (1995-2004),EU15,Percentage,Total,12.5
+689,2015,European Union - 15 countries (1995-2004),EU15,Percentage,Males,11.3
+690,2015,European Union - 15 countries (1995-2004),EU15,Percentage,Females,13.7
+802,2016,European Union - 15 countries (1995-2004),EU15,Percentage,Total,12.5
+803,2016,European Union - 15 countries (1995-2004),EU15,Percentage,Males,11.4
+804,2016,European Union - 15 countries (1995-2004),EU15,Percentage,Females,13.6
+916,2017,European Union - 15 countries (1995-2004),EU15,Percentage,Total,12.6
+917,2017,European Union - 15 countries (1995-2004),EU15,Percentage,Males,11.5
+918,2017,European Union - 15 countries (1995-2004),EU15,Percentage,Females,13.7
+1030,2018,European Union - 15 countries (1995-2004),EU15,Percentage,Total,12.7
+1031,2018,European Union - 15 countries (1995-2004),EU15,Percentage,Males,11.5
+1032,2018,European Union - 15 countries (1995-2004),EU15,Percentage,Females,13.9
+1,2009,European Union - 28 countries,EU28,Percentage,Total,9.5
+2,2009,European Union - 28 countries,EU28,Percentage,Males,8.6
+3,2009,European Union - 28 countries,EU28,Percentage,Females,10.4
+115,2010,European Union - 28 countries,EU28,Percentage,Total,9.3
+116,2010,European Union - 28 countries,EU28,Percentage,Males,8.4
+117,2010,European Union - 28 countries,EU28,Percentage,Females,10.2
+229,2011,European Union - 28 countries,EU28,Percentage,Total,9.1
+230,2011,European Union - 28 countries,EU28,Percentage,Males,8.3
+231,2011,European Union - 28 countries,EU28,Percentage,Females,9.8
+343,2012,European Union - 28 countries,EU28,Percentage,Total,9.2
+344,2012,European Union - 28 countries,EU28,Percentage,Males,8.5
+345,2012,European Union - 28 countries,EU28,Percentage,Females,9.9
+457,2013,European Union - 28 countries,EU28,Percentage,Total,10.7
+458,2013,European Union - 28 countries,EU28,Percentage,Males,9.7
+459,2013,European Union - 28 countries,EU28,Percentage,Females,11.6
+571,2014,European Union - 28 countries,EU28,Percentage,Total,10.8
+572,2014,European Union - 28 countries,EU28,Percentage,Males,9.9
+573,2014,European Union - 28 countries,EU28,Percentage,Females,11.8
+685,2015,European Union - 28 countries,EU28,Percentage,Total,10.7
+686,2015,European Union - 28 countries,EU28,Percentage,Males,9.7
+687,2015,European Union - 28 countries,EU28,Percentage,Females,11.7
+799,2016,European Union - 28 countries,EU28,Percentage,Total,10.8
+800,2016,European Union - 28 countries,EU28,Percentage,Males,9.8
+801,2016,European Union - 28 countries,EU28,Percentage,Females,11.7
+913,2017,European Union - 28 countries,EU28,Percentage,Total,10.9
+914,2017,European Union - 28 countries,EU28,Percentage,Males,10
+915,2017,European Union - 28 countries,EU28,Percentage,Females,11.8
+1027,2018,European Union - 28 countries,EU28,Percentage,Total,11.1
+1028,2018,European Union - 28 countries,EU28,Percentage,Males,10.1
+1029,2018,European Union - 28 countries,EU28,Percentage,Females,12.1
+85,2009,Finland,FI,Percentage,Total,22.1
+86,2009,Finland,FI,Percentage,Males,18.5
+87,2009,Finland,FI,Percentage,Females,25.9
+199,2010,Finland,FI,Percentage,Total,23
+200,2010,Finland,FI,Percentage,Males,18.9
+201,2010,Finland,FI,Percentage,Females,27.1
+313,2011,Finland,FI,Percentage,Total,23.8
+314,2011,Finland,FI,Percentage,Males,19.9
+315,2011,Finland,FI,Percentage,Females,27.7
+427,2012,Finland,FI,Percentage,Total,24.5
+428,2012,Finland,FI,Percentage,Males,20.7
+429,2012,Finland,FI,Percentage,Females,28.4
+541,2013,Finland,FI,Percentage,Total,24.9
+542,2013,Finland,FI,Percentage,Males,21.1
+543,2013,Finland,FI,Percentage,Females,28.8
+655,2014,Finland,FI,Percentage,Total,25.1
+656,2014,Finland,FI,Percentage,Males,21.6
+657,2014,Finland,FI,Percentage,Females,28.8
+769,2015,Finland,FI,Percentage,Total,25.4
+770,2015,Finland,FI,Percentage,Males,21.8
+771,2015,Finland,FI,Percentage,Females,29.1
+883,2016,Finland,FI,Percentage,Total,26.4
+884,2016,Finland,FI,Percentage,Males,22.6
+885,2016,Finland,FI,Percentage,Females,30.3
+997,2017,Finland,FI,Percentage,Total,27.4
+998,2017,Finland,FI,Percentage,Males,23.3
+999,2017,Finland,FI,Percentage,Females,31.5
+1111,2018,Finland,FI,Percentage,Total,28.5
+1112,2018,Finland,FI,Percentage,Males,24.7
+1113,2018,Finland,FI,Percentage,Females,32.4
+37,2009,France,FR,Percentage,Total,5.7
+38,2009,France,FR,Percentage,Males,5.2
+39,2009,France,FR,Percentage,Females,6.1
+151,2010,France,FR,Percentage,Total,5
+152,2010,France,FR,Percentage,Males,4.5
+153,2010,France,FR,Percentage,Females,5.4
+265,2011,France,FR,Percentage,Total,5.5
+266,2011,France,FR,Percentage,Males,5.1
+267,2011,France,FR,Percentage,Females,5.9
+379,2012,France,FR,Percentage,Total,5.7
+380,2012,France,FR,Percentage,Males,5.4
+381,2012,France,FR,Percentage,Females,6
+493,2013,France,FR,Percentage,Total,17.8
+494,2013,France,FR,Percentage,Males,15.5
+495,2013,France,FR,Percentage,Females,20
+607,2014,France,FR,Percentage,Total,18.4
+608,2014,France,FR,Percentage,Males,16
+609,2014,France,FR,Percentage,Females,20.8
+721,2015,France,FR,Percentage,Total,18.6
+722,2015,France,FR,Percentage,Males,15.9
+723,2015,France,FR,Percentage,Females,21.1
+835,2016,France,FR,Percentage,Total,18.8
+836,2016,France,FR,Percentage,Males,16.3
+837,2016,France,FR,Percentage,Females,21.2
+949,2017,France,FR,Percentage,Total,18.7
+950,2017,France,FR,Percentage,Males,16.2
+951,2017,France,FR,Percentage,Females,21.1
+1063,2018,France,FR,Percentage,Total,18.6
+1064,2018,France,FR,Percentage,Males,15.9
+1065,2018,France,FR,Percentage,Females,21
+22,2009,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,8
+23,2009,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.1
+24,2009,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,7.9
+136,2010,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,7.8
+137,2010,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,7.9
+138,2010,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,7.7
+250,2011,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,7.9
+251,2011,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,7.9
+252,2011,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,7.8
+364,2012,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,7.9
+365,2012,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.1
+366,2012,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,7.8
+478,2013,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,7.9
+479,2013,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,7.9
+480,2013,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,7.9
+592,2014,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,8
+593,2014,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.1
+594,2014,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,7.9
+706,2015,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,8.1
+707,2015,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.2
+708,2015,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,8
+820,2016,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,8.5
+821,2016,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.7
+822,2016,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,8.3
+934,2017,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,8.4
+935,2017,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.7
+936,2017,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,8.1
+1048,2018,Germany (until 1990 former territory of the FRG),DE,Percentage,Total,8.2
+1049,2018,Germany (until 1990 former territory of the FRG),DE,Percentage,Males,8.5
+1050,2018,Germany (until 1990 former territory of the FRG),DE,Percentage,Females,8
+31,2009,Greece,EL,Percentage,Total,3.5
+32,2009,Greece,EL,Percentage,Males,3.5
+33,2009,Greece,EL,Percentage,Females,3.5
+145,2010,Greece,EL,Percentage,Total,3.3
+146,2010,Greece,EL,Percentage,Males,3.4
+147,2010,Greece,EL,Percentage,Females,3.2
+259,2011,Greece,EL,Percentage,Total,2.8
+260,2011,Greece,EL,Percentage,Males,2.9
+261,2011,Greece,EL,Percentage,Females,2.6
+373,2012,Greece,EL,Percentage,Total,3.3
+374,2012,Greece,EL,Percentage,Males,3.5
+375,2012,Greece,EL,Percentage,Females,3
+487,2013,Greece,EL,Percentage,Total,3.2
+488,2013,Greece,EL,Percentage,Males,3.3
+489,2013,Greece,EL,Percentage,Females,3.1
+601,2014,Greece,EL,Percentage,Total,3.2
+602,2014,Greece,EL,Percentage,Males,3.4
+603,2014,Greece,EL,Percentage,Females,3.1
+715,2015,Greece,EL,Percentage,Total,3.3
+716,2015,Greece,EL,Percentage,Males,3.3
+717,2015,Greece,EL,Percentage,Females,3.3
+829,2016,Greece,EL,Percentage,Total,4
+830,2016,Greece,EL,Percentage,Males,4
+831,2016,Greece,EL,Percentage,Females,4
+943,2017,Greece,EL,Percentage,Total,4.5
+944,2017,Greece,EL,Percentage,Males,4.7
+945,2017,Greece,EL,Percentage,Females,4.4
+1057,2018,Greece,EL,Percentage,Total,4.5
+1058,2018,Greece,EL,Percentage,Males,4.5
+1059,2018,Greece,EL,Percentage,Females,4.5
+58,2009,Hungary,HU,Percentage,Total,3
+59,2009,Hungary,HU,Percentage,Males,2.7
+60,2009,Hungary,HU,Percentage,Females,3.4
+172,2010,Hungary,HU,Percentage,Total,3
+173,2010,Hungary,HU,Percentage,Males,2.9
+174,2010,Hungary,HU,Percentage,Females,3.1
+286,2011,Hungary,HU,Percentage,Total,3
+287,2011,Hungary,HU,Percentage,Males,2.8
+288,2011,Hungary,HU,Percentage,Females,3.1
+400,2012,Hungary,HU,Percentage,Total,2.9
+401,2012,Hungary,HU,Percentage,Males,2.7
+402,2012,Hungary,HU,Percentage,Females,3.1
+514,2013,Hungary,HU,Percentage,Total,3.2
+515,2013,Hungary,HU,Percentage,Males,3.1
+516,2013,Hungary,HU,Percentage,Females,3.2
+628,2014,Hungary,HU,Percentage,Total,3.3
+629,2014,Hungary,HU,Percentage,Males,3
+630,2014,Hungary,HU,Percentage,Females,3.6
+742,2015,Hungary,HU,Percentage,Total,7.1
+743,2015,Hungary,HU,Percentage,Males,6.8
+744,2015,Hungary,HU,Percentage,Females,7.5
+856,2016,Hungary,HU,Percentage,Total,6.3
+857,2016,Hungary,HU,Percentage,Males,5.6
+858,2016,Hungary,HU,Percentage,Females,7
+970,2017,Hungary,HU,Percentage,Total,6.2
+971,2017,Hungary,HU,Percentage,Males,5.9
+972,2017,Hungary,HU,Percentage,Females,6.4
+1084,2018,Hungary,HU,Percentage,Total,6
+1085,2018,Hungary,HU,Percentage,Males,5.6
+1086,2018,Hungary,HU,Percentage,Females,6.4
+94,2009,Iceland,IS,Percentage,Total,25.1
+95,2009,Iceland,IS,Percentage,Males,20.4
+96,2009,Iceland,IS,Percentage,Females,30.1
+208,2010,Iceland,IS,Percentage,Total,25.4
+209,2010,Iceland,IS,Percentage,Males,21.3
+210,2010,Iceland,IS,Percentage,Females,29.6
+322,2011,Iceland,IS,Percentage,Total,26.4
+323,2011,Iceland,IS,Percentage,Males,23.3
+324,2011,Iceland,IS,Percentage,Females,29.5
+436,2012,Iceland,IS,Percentage,Total,28.1
+437,2012,Iceland,IS,Percentage,Males,24.2
+438,2012,Iceland,IS,Percentage,Females,32
+550,2013,Iceland,IS,Percentage,Total,26.3
+551,2013,Iceland,IS,Percentage,Males,22.9
+552,2013,Iceland,IS,Percentage,Females,29.8
+664,2014,Iceland,IS,Percentage,Total,26.3
+665,2014,Iceland,IS,Percentage,Males,21.9
+666,2014,Iceland,IS,Percentage,Females,30.6
+778,2015,Iceland,IS,Percentage,Total,28.1
+779,2015,Iceland,IS,Percentage,Males,23.5
+780,2015,Iceland,IS,Percentage,Females,32.7
+892,2016,Iceland,IS,Percentage,Total,24.7
+893,2016,Iceland,IS,Percentage,Males,21.3
+894,2016,Iceland,IS,Percentage,Females,28.3
+1006,2017,Iceland,IS,Percentage,Total,23.6
+1007,2017,Iceland,IS,Percentage,Males,20.4
+1008,2017,Iceland,IS,Percentage,Females,26.8
+1120,2018,Iceland,IS,Percentage,Total,21.5
+1121,2018,Iceland,IS,Percentage,Males,18.3
+1122,2018,Iceland,IS,Percentage,Females,25
+28,2009,Ireland,IE,Percentage,Total,6.6
+29,2009,Ireland,IE,Percentage,Males,6
+30,2009,Ireland,IE,Percentage,Females,7.3
+142,2010,Ireland,IE,Percentage,Total,7.1
+143,2010,Ireland,IE,Percentage,Males,6.8
+144,2010,Ireland,IE,Percentage,Females,7.5
+256,2011,Ireland,IE,Percentage,Total,7.2
+257,2011,Ireland,IE,Percentage,Males,6.9
+258,2011,Ireland,IE,Percentage,Females,7.6
+370,2012,Ireland,IE,Percentage,Total,7.5
+371,2012,Ireland,IE,Percentage,Males,7.1
+372,2012,Ireland,IE,Percentage,Females,7.8
+484,2013,Ireland,IE,Percentage,Total,7.6
+485,2013,Ireland,IE,Percentage,Males,7.2
+486,2013,Ireland,IE,Percentage,Females,7.9
+598,2014,Ireland,IE,Percentage,Total,7
+599,2014,Ireland,IE,Percentage,Males,6.4
+600,2014,Ireland,IE,Percentage,Females,7.6
+712,2015,Ireland,IE,Percentage,Total,6.5
+713,2015,Ireland,IE,Percentage,Males,6
+714,2015,Ireland,IE,Percentage,Females,7.1
+826,2016,Ireland,IE,Percentage,Total,6.5
+827,2016,Ireland,IE,Percentage,Males,6.1
+828,2016,Ireland,IE,Percentage,Females,6.8
+940,2017,Ireland,IE,Percentage,Total,9
+941,2017,Ireland,IE,Percentage,Males,7.9
+942,2017,Ireland,IE,Percentage,Females,10
+1054,2018,Ireland,IE,Percentage,Total,12.5
+1055,2018,Ireland,IE,Percentage,Males,10.3
+1056,2018,Ireland,IE,Percentage,Females,14.6
+43,2009,Italy,IT,Percentage,Total,6
+44,2009,Italy,IT,Percentage,Males,5.7
+45,2009,Italy,IT,Percentage,Females,6.4
+157,2010,Italy,IT,Percentage,Total,6.2
+158,2010,Italy,IT,Percentage,Males,5.9
+159,2010,Italy,IT,Percentage,Females,6.5
+271,2011,Italy,IT,Percentage,Total,5.7
+272,2011,Italy,IT,Percentage,Males,5.3
+273,2011,Italy,IT,Percentage,Females,6.1
+385,2012,Italy,IT,Percentage,Total,6.6
+386,2012,Italy,IT,Percentage,Males,6.1
+387,2012,Italy,IT,Percentage,Females,7
+499,2013,Italy,IT,Percentage,Total,6.2
+500,2013,Italy,IT,Percentage,Males,5.8
+501,2013,Italy,IT,Percentage,Females,6.5
+613,2014,Italy,IT,Percentage,Total,8.1
+614,2014,Italy,IT,Percentage,Males,7.8
+615,2014,Italy,IT,Percentage,Females,8.3
+727,2015,Italy,IT,Percentage,Total,7.3
+728,2015,Italy,IT,Percentage,Males,6.9
+729,2015,Italy,IT,Percentage,Females,7.7
+841,2016,Italy,IT,Percentage,Total,8.3
+842,2016,Italy,IT,Percentage,Males,7.8
+843,2016,Italy,IT,Percentage,Females,8.7
+955,2017,Italy,IT,Percentage,Total,7.9
+956,2017,Italy,IT,Percentage,Males,7.5
+957,2017,Italy,IT,Percentage,Females,8.4
+1069,2018,Italy,IT,Percentage,Total,8.1
+1070,2018,Italy,IT,Percentage,Males,7.6
+1071,2018,Italy,IT,Percentage,Females,8.6
+49,2009,Latvia,LV,Percentage,Total,5.6
+50,2009,Latvia,LV,Percentage,Males,3.7
+51,2009,Latvia,LV,Percentage,Females,7.3
+163,2010,Latvia,LV,Percentage,Total,5.4
+164,2010,Latvia,LV,Percentage,Males,3.6
+165,2010,Latvia,LV,Percentage,Females,7
+277,2011,Latvia,LV,Percentage,Total,5.4
+278,2011,Latvia,LV,Percentage,Males,4.1
+279,2011,Latvia,LV,Percentage,Females,6.5
+391,2012,Latvia,LV,Percentage,Total,7.2
+392,2012,Latvia,LV,Percentage,Males,6.2
+393,2012,Latvia,LV,Percentage,Females,8.1
+505,2013,Latvia,LV,Percentage,Total,6.8
+506,2013,Latvia,LV,Percentage,Males,5.1
+507,2013,Latvia,LV,Percentage,Females,8.2
+619,2014,Latvia,LV,Percentage,Total,5.6
+620,2014,Latvia,LV,Percentage,Males,4.9
+621,2014,Latvia,LV,Percentage,Females,6.3
+733,2015,Latvia,LV,Percentage,Total,5.7
+734,2015,Latvia,LV,Percentage,Males,4.1
+735,2015,Latvia,LV,Percentage,Females,7.2
+847,2016,Latvia,LV,Percentage,Total,7.3
+848,2016,Latvia,LV,Percentage,Males,6.1
+849,2016,Latvia,LV,Percentage,Females,8.5
+961,2017,Latvia,LV,Percentage,Total,7.5
+962,2017,Latvia,LV,Percentage,Males,6
+963,2017,Latvia,LV,Percentage,Females,8.8
+1075,2018,Latvia,LV,Percentage,Total,6.7
+1076,2018,Latvia,LV,Percentage,Males,4.8
+1077,2018,Latvia,LV,Percentage,Females,8.4
+52,2009,Lithuania,LT,Percentage,Total,4.6
+53,2009,Lithuania,LT,Percentage,Males,3.7
+54,2009,Lithuania,LT,Percentage,Females,5.5
+166,2010,Lithuania,LT,Percentage,Total,4.4
+167,2010,Lithuania,LT,Percentage,Males,3.5
+168,2010,Lithuania,LT,Percentage,Females,5.2
+280,2011,Lithuania,LT,Percentage,Total,6
+281,2011,Lithuania,LT,Percentage,Males,4.5
+282,2011,Lithuania,LT,Percentage,Females,7.3
+394,2012,Lithuania,LT,Percentage,Total,5.4
+395,2012,Lithuania,LT,Percentage,Males,4.5
+396,2012,Lithuania,LT,Percentage,Females,6.2
+508,2013,Lithuania,LT,Percentage,Total,5.9
+509,2013,Lithuania,LT,Percentage,Males,5.2
+510,2013,Lithuania,LT,Percentage,Females,6.5
+622,2014,Lithuania,LT,Percentage,Total,5.1
+623,2014,Lithuania,LT,Percentage,Males,4.6
+624,2014,Lithuania,LT,Percentage,Females,5.6
+736,2015,Lithuania,LT,Percentage,Total,5.8
+737,2015,Lithuania,LT,Percentage,Males,5.1
+738,2015,Lithuania,LT,Percentage,Females,6.5
+850,2016,Lithuania,LT,Percentage,Total,6
+851,2016,Lithuania,LT,Percentage,Males,5.1
+852,2016,Lithuania,LT,Percentage,Females,6.8
+964,2017,Lithuania,LT,Percentage,Total,5.9
+965,2017,Lithuania,LT,Percentage,Males,4.4
+966,2017,Lithuania,LT,Percentage,Females,7.3
+1078,2018,Lithuania,LT,Percentage,Total,6.6
+1079,2018,Lithuania,LT,Percentage,Males,4.9
+1080,2018,Lithuania,LT,Percentage,Females,8.3
+55,2009,Luxembourg,LU,Percentage,Total,13.8
+56,2009,Luxembourg,LU,Percentage,Males,13.8
+57,2009,Luxembourg,LU,Percentage,Females,13.7
+169,2010,Luxembourg,LU,Percentage,Total,13.5
+170,2010,Luxembourg,LU,Percentage,Males,12.9
+171,2010,Luxembourg,LU,Percentage,Females,14.2
+283,2011,Luxembourg,LU,Percentage,Total,13.9
+284,2011,Luxembourg,LU,Percentage,Males,14.5
+285,2011,Luxembourg,LU,Percentage,Females,13.3
+397,2012,Luxembourg,LU,Percentage,Total,14.2
+398,2012,Luxembourg,LU,Percentage,Males,14.3
+399,2012,Luxembourg,LU,Percentage,Females,14.1
+511,2013,Luxembourg,LU,Percentage,Total,14.6
+512,2013,Luxembourg,LU,Percentage,Males,14
+513,2013,Luxembourg,LU,Percentage,Females,15.2
+625,2014,Luxembourg,LU,Percentage,Total,14.5
+626,2014,Luxembourg,LU,Percentage,Males,13.9
+627,2014,Luxembourg,LU,Percentage,Females,15.1
+739,2015,Luxembourg,LU,Percentage,Total,18
+740,2015,Luxembourg,LU,Percentage,Males,18.2
+741,2015,Luxembourg,LU,Percentage,Females,17.8
+853,2016,Luxembourg,LU,Percentage,Total,16.8
+854,2016,Luxembourg,LU,Percentage,Males,16.7
+855,2016,Luxembourg,LU,Percentage,Females,16.9
+967,2017,Luxembourg,LU,Percentage,Total,17.2
+968,2017,Luxembourg,LU,Percentage,Males,16.9
+969,2017,Luxembourg,LU,Percentage,Females,17.6
+1081,2018,Luxembourg,LU,Percentage,Total,18
+1082,2018,Luxembourg,LU,Percentage,Males,17.6
+1083,2018,Luxembourg,LU,Percentage,Females,18.4
+61,2009,Malta,MT,Percentage,Total,6.2
+62,2009,Malta,MT,Percentage,Males,6.1
+63,2009,Malta,MT,Percentage,Females,6.4
+175,2010,Malta,MT,Percentage,Total,6.2
+176,2010,Malta,MT,Percentage,Males,5.9
+177,2010,Malta,MT,Percentage,Females,6.4
+289,2011,Malta,MT,Percentage,Total,6.6
+290,2011,Malta,MT,Percentage,Males,6.2
+291,2011,Malta,MT,Percentage,Females,7.1
+403,2012,Malta,MT,Percentage,Total,7.2
+404,2012,Malta,MT,Percentage,Males,6.8
+405,2012,Malta,MT,Percentage,Females,7.6
+517,2013,Malta,MT,Percentage,Total,7.7
+518,2013,Malta,MT,Percentage,Males,7.4
+519,2013,Malta,MT,Percentage,Females,8
+631,2014,Malta,MT,Percentage,Total,7.7
+632,2014,Malta,MT,Percentage,Males,7.3
+633,2014,Malta,MT,Percentage,Females,8.1
+745,2015,Malta,MT,Percentage,Total,7.4
+746,2015,Malta,MT,Percentage,Males,6.9
+747,2015,Malta,MT,Percentage,Females,7.9
+859,2016,Malta,MT,Percentage,Total,7.8
+860,2016,Malta,MT,Percentage,Males,7
+861,2016,Malta,MT,Percentage,Females,8.7
+973,2017,Malta,MT,Percentage,Total,10.6
+974,2017,Malta,MT,Percentage,Males,9.5
+975,2017,Malta,MT,Percentage,Females,11.9
+1087,2018,Malta,MT,Percentage,Total,10.8
+1088,2018,Malta,MT,Percentage,Males,9.3
+1089,2018,Malta,MT,Percentage,Females,12.4
+103,2009,Montenegro,ME,Percentage,Total,
+104,2009,Montenegro,ME,Percentage,Males,
+105,2009,Montenegro,ME,Percentage,Females,
+217,2010,Montenegro,ME,Percentage,Total,
+218,2010,Montenegro,ME,Percentage,Males,
+219,2010,Montenegro,ME,Percentage,Females,
+331,2011,Montenegro,ME,Percentage,Total,2.4
+332,2011,Montenegro,ME,Percentage,Males,2.6
+333,2011,Montenegro,ME,Percentage,Females,2.3
+445,2012,Montenegro,ME,Percentage,Total,2.4
+446,2012,Montenegro,ME,Percentage,Males,2.7
+447,2012,Montenegro,ME,Percentage,Females,2.2
+559,2013,Montenegro,ME,Percentage,Total,2.8
+560,2013,Montenegro,ME,Percentage,Males,2.7
+561,2013,Montenegro,ME,Percentage,Females,2.8
+673,2014,Montenegro,ME,Percentage,Total,2.9
+674,2014,Montenegro,ME,Percentage,Males,3.1
+675,2014,Montenegro,ME,Percentage,Females,2.7
+787,2015,Montenegro,ME,Percentage,Total,3
+788,2015,Montenegro,ME,Percentage,Males,3.4
+789,2015,Montenegro,ME,Percentage,Females,2.5
+901,2016,Montenegro,ME,Percentage,Total,3.3
+902,2016,Montenegro,ME,Percentage,Males,3.7
+903,2016,Montenegro,ME,Percentage,Females,2.9
+1015,2017,Montenegro,ME,Percentage,Total,2.8
+1016,2017,Montenegro,ME,Percentage,Males,3.1
+1017,2017,Montenegro,ME,Percentage,Females,2.5
+1129,2018,Montenegro,ME,Percentage,Total,3.2
+1130,2018,Montenegro,ME,Percentage,Males,3.3
+1131,2018,Montenegro,ME,Percentage,Females,3
+64,2009,Netherlands,NL,Percentage,Total,17.1
+65,2009,Netherlands,NL,Percentage,Males,16.5
+66,2009,Netherlands,NL,Percentage,Females,17.6
+178,2010,Netherlands,NL,Percentage,Total,17
+179,2010,Netherlands,NL,Percentage,Males,16.4
+180,2010,Netherlands,NL,Percentage,Females,17.7
+292,2011,Netherlands,NL,Percentage,Total,17.1
+293,2011,Netherlands,NL,Percentage,Males,16.9
+294,2011,Netherlands,NL,Percentage,Females,17.3
+406,2012,Netherlands,NL,Percentage,Total,16.9
+407,2012,Netherlands,NL,Percentage,Males,16.4
+408,2012,Netherlands,NL,Percentage,Females,17.4
+520,2013,Netherlands,NL,Percentage,Total,17.9
+521,2013,Netherlands,NL,Percentage,Males,17.4
+522,2013,Netherlands,NL,Percentage,Females,18.4
+634,2014,Netherlands,NL,Percentage,Total,18.3
+635,2014,Netherlands,NL,Percentage,Males,18
+636,2014,Netherlands,NL,Percentage,Females,18.6
+748,2015,Netherlands,NL,Percentage,Total,18.9
+749,2015,Netherlands,NL,Percentage,Males,18.4
+750,2015,Netherlands,NL,Percentage,Females,19.4
+862,2016,Netherlands,NL,Percentage,Total,18.8
+863,2016,Netherlands,NL,Percentage,Males,18
+864,2016,Netherlands,NL,Percentage,Females,19.6
+976,2017,Netherlands,NL,Percentage,Total,19.1
+977,2017,Netherlands,NL,Percentage,Males,18.2
+978,2017,Netherlands,NL,Percentage,Females,20.1
+1090,2018,Netherlands,NL,Percentage,Total,19.1
+1091,2018,Netherlands,NL,Percentage,Males,18.3
+1092,2018,Netherlands,NL,Percentage,Females,20
+106,2009,North Macedonia,MK,Percentage,Total,3.5
+107,2009,North Macedonia,MK,Percentage,Males,3.5
+108,2009,North Macedonia,MK,Percentage,Females,3.5
+220,2010,North Macedonia,MK,Percentage,Total,3.5
+221,2010,North Macedonia,MK,Percentage,Males,3.4
+222,2010,North Macedonia,MK,Percentage,Females,3.6
+334,2011,North Macedonia,MK,Percentage,Total,3.6
+335,2011,North Macedonia,MK,Percentage,Males,3.6
+336,2011,North Macedonia,MK,Percentage,Females,3.5
+448,2012,North Macedonia,MK,Percentage,Total,4.1
+449,2012,North Macedonia,MK,Percentage,Males,4.1
+450,2012,North Macedonia,MK,Percentage,Females,4
+562,2013,North Macedonia,MK,Percentage,Total,3.7
+563,2013,North Macedonia,MK,Percentage,Males,3.9
+564,2013,North Macedonia,MK,Percentage,Females,3.6
+676,2014,North Macedonia,MK,Percentage,Total,3.2
+677,2014,North Macedonia,MK,Percentage,Males,3.2
+678,2014,North Macedonia,MK,Percentage,Females,3.3
+790,2015,North Macedonia,MK,Percentage,Total,2.6
+791,2015,North Macedonia,MK,Percentage,Males,2.7
+792,2015,North Macedonia,MK,Percentage,Females,2.5
+904,2016,North Macedonia,MK,Percentage,Total,2.9
+905,2016,North Macedonia,MK,Percentage,Males,2.8
+906,2016,North Macedonia,MK,Percentage,Females,3
+1018,2017,North Macedonia,MK,Percentage,Total,2.3
+1019,2017,North Macedonia,MK,Percentage,Males,2.4
+1020,2017,North Macedonia,MK,Percentage,Females,2.2
+1132,2018,North Macedonia,MK,Percentage,Total,2.4
+1133,2018,North Macedonia,MK,Percentage,Males,2.4
+1134,2018,North Macedonia,MK,Percentage,Females,2.3
+97,2009,Norway,NO,Percentage,Total,18.5
+98,2009,Norway,NO,Percentage,Males,17.1
+99,2009,Norway,NO,Percentage,Females,20
+211,2010,Norway,NO,Percentage,Total,18.2
+212,2010,Norway,NO,Percentage,Males,16.7
+213,2010,Norway,NO,Percentage,Females,19.8
+325,2011,Norway,NO,Percentage,Total,18.6
+326,2011,Norway,NO,Percentage,Males,17.5
+327,2011,Norway,NO,Percentage,Females,19.7
+439,2012,Norway,NO,Percentage,Total,20.4
+440,2012,Norway,NO,Percentage,Males,19.1
+441,2012,Norway,NO,Percentage,Females,21.8
+553,2013,Norway,NO,Percentage,Total,20.8
+554,2013,Norway,NO,Percentage,Males,19.2
+555,2013,Norway,NO,Percentage,Females,22.4
+667,2014,Norway,NO,Percentage,Total,20.1
+668,2014,Norway,NO,Percentage,Males,18.4
+669,2014,Norway,NO,Percentage,Females,21.9
+781,2015,Norway,NO,Percentage,Total,20.1
+782,2015,Norway,NO,Percentage,Males,18.3
+783,2015,Norway,NO,Percentage,Females,22
+895,2016,Norway,NO,Percentage,Total,19.6
+896,2016,Norway,NO,Percentage,Males,17.9
+897,2016,Norway,NO,Percentage,Females,21.4
+1009,2017,Norway,NO,Percentage,Total,19.9
+1010,2017,Norway,NO,Percentage,Males,18.3
+1011,2017,Norway,NO,Percentage,Females,21.6
+1123,2018,Norway,NO,Percentage,Total,19.7
+1124,2018,Norway,NO,Percentage,Males,17.5
+1125,2018,Norway,NO,Percentage,Females,22.1
+70,2009,Poland,PL,Percentage,Total,4.7
+71,2009,Poland,PL,Percentage,Males,4.3
+72,2009,Poland,PL,Percentage,Females,5.1
+184,2010,Poland,PL,Percentage,Total,5.2
+185,2010,Poland,PL,Percentage,Males,4.7
+186,2010,Poland,PL,Percentage,Females,5.7
+298,2011,Poland,PL,Percentage,Total,4.4
+299,2011,Poland,PL,Percentage,Males,3.9
+300,2011,Poland,PL,Percentage,Females,4.9
+412,2012,Poland,PL,Percentage,Total,4.5
+413,2012,Poland,PL,Percentage,Males,3.8
+414,2012,Poland,PL,Percentage,Females,5.1
+526,2013,Poland,PL,Percentage,Total,4.3
+527,2013,Poland,PL,Percentage,Males,3.8
+528,2013,Poland,PL,Percentage,Females,4.9
+640,2014,Poland,PL,Percentage,Total,4
+641,2014,Poland,PL,Percentage,Males,3.6
+642,2014,Poland,PL,Percentage,Females,4.3
+754,2015,Poland,PL,Percentage,Total,3.5
+755,2015,Poland,PL,Percentage,Males,3.3
+756,2015,Poland,PL,Percentage,Females,3.8
+868,2016,Poland,PL,Percentage,Total,3.7
+869,2016,Poland,PL,Percentage,Males,3.4
+870,2016,Poland,PL,Percentage,Females,4
+982,2017,Poland,PL,Percentage,Total,4
+983,2017,Poland,PL,Percentage,Males,3.5
+984,2017,Poland,PL,Percentage,Females,4.4
+1096,2018,Poland,PL,Percentage,Total,5.7
+1097,2018,Poland,PL,Percentage,Males,5.1
+1098,2018,Poland,PL,Percentage,Females,6.3
+73,2009,Portugal,PT,Percentage,Total,6.4
+74,2009,Portugal,PT,Percentage,Males,6
+75,2009,Portugal,PT,Percentage,Females,6.8
+187,2010,Portugal,PT,Percentage,Total,5.7
+188,2010,Portugal,PT,Percentage,Males,5.7
+189,2010,Portugal,PT,Percentage,Females,5.7
+301,2011,Portugal,PT,Percentage,Total,11.5
+302,2011,Portugal,PT,Percentage,Males,10.8
+303,2011,Portugal,PT,Percentage,Females,12.1
+415,2012,Portugal,PT,Percentage,Total,10.5
+416,2012,Portugal,PT,Percentage,Males,10
+417,2012,Portugal,PT,Percentage,Females,10.9
+529,2013,Portugal,PT,Percentage,Total,9.7
+530,2013,Portugal,PT,Percentage,Males,9.3
+531,2013,Portugal,PT,Percentage,Females,10.1
+643,2014,Portugal,PT,Percentage,Total,9.6
+644,2014,Portugal,PT,Percentage,Males,9.3
+645,2014,Portugal,PT,Percentage,Females,9.9
+757,2015,Portugal,PT,Percentage,Total,9.7
+758,2015,Portugal,PT,Percentage,Males,9.7
+759,2015,Portugal,PT,Percentage,Females,9.8
+871,2016,Portugal,PT,Percentage,Total,9.6
+872,2016,Portugal,PT,Percentage,Males,9.6
+873,2016,Portugal,PT,Percentage,Females,9.7
+985,2017,Portugal,PT,Percentage,Total,9.8
+986,2017,Portugal,PT,Percentage,Males,9.6
+987,2017,Portugal,PT,Percentage,Females,10
+1099,2018,Portugal,PT,Percentage,Total,10.3
+1100,2018,Portugal,PT,Percentage,Males,9.8
+1101,2018,Portugal,PT,Percentage,Females,10.8
+76,2009,Romania,RO,Percentage,Total,1.8
+77,2009,Romania,RO,Percentage,Males,1.6
+78,2009,Romania,RO,Percentage,Females,1.9
+190,2010,Romania,RO,Percentage,Total,1.4
+191,2010,Romania,RO,Percentage,Males,1.3
+192,2010,Romania,RO,Percentage,Females,1.4
+304,2011,Romania,RO,Percentage,Total,1.6
+305,2011,Romania,RO,Percentage,Males,1.7
+306,2011,Romania,RO,Percentage,Females,1.5
+418,2012,Romania,RO,Percentage,Total,1.4
+419,2012,Romania,RO,Percentage,Males,1.5
+420,2012,Romania,RO,Percentage,Females,1.4
+532,2013,Romania,RO,Percentage,Total,2
+533,2013,Romania,RO,Percentage,Males,2.2
+534,2013,Romania,RO,Percentage,Females,1.8
+646,2014,Romania,RO,Percentage,Total,1.5
+647,2014,Romania,RO,Percentage,Males,1.7
+648,2014,Romania,RO,Percentage,Females,1.4
+760,2015,Romania,RO,Percentage,Total,1.3
+761,2015,Romania,RO,Percentage,Males,1.3
+762,2015,Romania,RO,Percentage,Females,1.3
+874,2016,Romania,RO,Percentage,Total,1.2
+875,2016,Romania,RO,Percentage,Males,1.2
+876,2016,Romania,RO,Percentage,Females,1.2
+988,2017,Romania,RO,Percentage,Total,1.1
+989,2017,Romania,RO,Percentage,Males,1.1
+990,2017,Romania,RO,Percentage,Females,1
+1102,2018,Romania,RO,Percentage,Total,0.9
+1103,2018,Romania,RO,Percentage,Males,1
+1104,2018,Romania,RO,Percentage,Females,0.9
+109,2009,Serbia,RS,Percentage,Total,
+110,2009,Serbia,RS,Percentage,Males,
+111,2009,Serbia,RS,Percentage,Females,
+223,2010,Serbia,RS,Percentage,Total,4
+224,2010,Serbia,RS,Percentage,Males,3.9
+225,2010,Serbia,RS,Percentage,Females,4.2
+337,2011,Serbia,RS,Percentage,Total,3.5
+338,2011,Serbia,RS,Percentage,Males,3.2
+339,2011,Serbia,RS,Percentage,Females,3.8
+451,2012,Serbia,RS,Percentage,Total,3.6
+452,2012,Serbia,RS,Percentage,Males,3.4
+453,2012,Serbia,RS,Percentage,Females,3.8
+565,2013,Serbia,RS,Percentage,Total,3.9
+566,2013,Serbia,RS,Percentage,Males,3.4
+567,2013,Serbia,RS,Percentage,Females,4.5
+679,2014,Serbia,RS,Percentage,Total,4.4
+680,2014,Serbia,RS,Percentage,Males,4.1
+681,2014,Serbia,RS,Percentage,Females,4.8
+793,2015,Serbia,RS,Percentage,Total,4.8
+794,2015,Serbia,RS,Percentage,Males,4.5
+795,2015,Serbia,RS,Percentage,Females,5.1
+907,2016,Serbia,RS,Percentage,Total,5.1
+908,2016,Serbia,RS,Percentage,Males,4.8
+909,2016,Serbia,RS,Percentage,Females,5.5
+1021,2017,Serbia,RS,Percentage,Total,4.4
+1022,2017,Serbia,RS,Percentage,Males,4.2
+1023,2017,Serbia,RS,Percentage,Females,4.6
+1135,2018,Serbia,RS,Percentage,Total,4.1
+1136,2018,Serbia,RS,Percentage,Males,3.7
+1137,2018,Serbia,RS,Percentage,Females,4.5
+82,2009,Slovakia,SK,Percentage,Total,3.1
+83,2009,Slovakia,SK,Percentage,Males,2.5
+84,2009,Slovakia,SK,Percentage,Females,3.7
+196,2010,Slovakia,SK,Percentage,Total,3.1
+197,2010,Slovakia,SK,Percentage,Males,2.5
+198,2010,Slovakia,SK,Percentage,Females,3.7
+310,2011,Slovakia,SK,Percentage,Total,4.1
+311,2011,Slovakia,SK,Percentage,Males,3.5
+312,2011,Slovakia,SK,Percentage,Females,4.6
+424,2012,Slovakia,SK,Percentage,Total,3.2
+425,2012,Slovakia,SK,Percentage,Males,2.8
+426,2012,Slovakia,SK,Percentage,Females,3.7
+538,2013,Slovakia,SK,Percentage,Total,3.1
+539,2013,Slovakia,SK,Percentage,Males,2.9
+540,2013,Slovakia,SK,Percentage,Females,3.3
+652,2014,Slovakia,SK,Percentage,Total,3.1
+653,2014,Slovakia,SK,Percentage,Males,3
+654,2014,Slovakia,SK,Percentage,Females,3.2
+766,2015,Slovakia,SK,Percentage,Total,3.1
+767,2015,Slovakia,SK,Percentage,Males,2.7
+768,2015,Slovakia,SK,Percentage,Females,3.4
+880,2016,Slovakia,SK,Percentage,Total,2.9
+881,2016,Slovakia,SK,Percentage,Males,2.6
+882,2016,Slovakia,SK,Percentage,Females,3.2
+994,2017,Slovakia,SK,Percentage,Total,3.4
+995,2017,Slovakia,SK,Percentage,Males,3.5
+996,2017,Slovakia,SK,Percentage,Females,3.3
+1108,2018,Slovakia,SK,Percentage,Total,4
+1109,2018,Slovakia,SK,Percentage,Males,4.2
+1110,2018,Slovakia,SK,Percentage,Females,3.8
+79,2009,Slovenia,SI,Percentage,Total,14.8
+80,2009,Slovenia,SI,Percentage,Males,13.1
+81,2009,Slovenia,SI,Percentage,Females,16.6
+193,2010,Slovenia,SI,Percentage,Total,16.4
+194,2010,Slovenia,SI,Percentage,Males,14.3
+195,2010,Slovenia,SI,Percentage,Females,18.5
+307,2011,Slovenia,SI,Percentage,Total,16
+308,2011,Slovenia,SI,Percentage,Males,13.8
+309,2011,Slovenia,SI,Percentage,Females,18.3
+421,2012,Slovenia,SI,Percentage,Total,13.8
+422,2012,Slovenia,SI,Percentage,Males,11.6
+423,2012,Slovenia,SI,Percentage,Females,16.2
+535,2013,Slovenia,SI,Percentage,Total,12.5
+536,2013,Slovenia,SI,Percentage,Males,10.5
+537,2013,Slovenia,SI,Percentage,Females,14.6
+649,2014,Slovenia,SI,Percentage,Total,12.1
+650,2014,Slovenia,SI,Percentage,Males,10.5
+651,2014,Slovenia,SI,Percentage,Females,13.8
+763,2015,Slovenia,SI,Percentage,Total,11.9
+764,2015,Slovenia,SI,Percentage,Males,10.7
+765,2015,Slovenia,SI,Percentage,Females,13.3
+877,2016,Slovenia,SI,Percentage,Total,11.6
+878,2016,Slovenia,SI,Percentage,Males,10.2
+879,2016,Slovenia,SI,Percentage,Females,13.2
+991,2017,Slovenia,SI,Percentage,Total,12
+992,2017,Slovenia,SI,Percentage,Males,10
+993,2017,Slovenia,SI,Percentage,Females,14.1
+1105,2018,Slovenia,SI,Percentage,Total,11.4
+1106,2018,Slovenia,SI,Percentage,Males,9.4
+1107,2018,Slovenia,SI,Percentage,Females,13.5
+34,2009,Spain,ES,Percentage,Total,10.8
+35,2009,Spain,ES,Percentage,Males,9.8
+36,2009,Spain,ES,Percentage,Females,11.8
+148,2010,Spain,ES,Percentage,Total,11.2
+149,2010,Spain,ES,Percentage,Males,10.3
+150,2010,Spain,ES,Percentage,Females,12.1
+262,2011,Spain,ES,Percentage,Total,11.2
+263,2011,Spain,ES,Percentage,Males,10.3
+264,2011,Spain,ES,Percentage,Females,12.1
+376,2012,Spain,ES,Percentage,Total,11.2
+377,2012,Spain,ES,Percentage,Males,10.2
+378,2012,Spain,ES,Percentage,Females,12.1
+490,2013,Spain,ES,Percentage,Total,11.4
+491,2013,Spain,ES,Percentage,Males,10.5
+492,2013,Spain,ES,Percentage,Females,12.2
+604,2014,Spain,ES,Percentage,Total,10.1
+605,2014,Spain,ES,Percentage,Males,9.4
+606,2014,Spain,ES,Percentage,Females,10.8
+718,2015,Spain,ES,Percentage,Total,9.9
+719,2015,Spain,ES,Percentage,Males,9.2
+720,2015,Spain,ES,Percentage,Females,10.7
+832,2016,Spain,ES,Percentage,Total,9.4
+833,2016,Spain,ES,Percentage,Males,8.6
+834,2016,Spain,ES,Percentage,Females,10.2
+946,2017,Spain,ES,Percentage,Total,9.9
+947,2017,Spain,ES,Percentage,Males,9.2
+948,2017,Spain,ES,Percentage,Females,10.6
+1060,2018,Spain,ES,Percentage,Total,10.5
+1061,2018,Spain,ES,Percentage,Males,9.5
+1062,2018,Spain,ES,Percentage,Females,11.5
+88,2009,Sweden,SE,Percentage,Total,22.5
+89,2009,Sweden,SE,Percentage,Males,16.3
+90,2009,Sweden,SE,Percentage,Females,28.8
+202,2010,Sweden,SE,Percentage,Total,24.7
+203,2010,Sweden,SE,Percentage,Males,18.3
+204,2010,Sweden,SE,Percentage,Females,31.3
+316,2011,Sweden,SE,Percentage,Total,25.3
+317,2011,Sweden,SE,Percentage,Males,18.7
+318,2011,Sweden,SE,Percentage,Females,32
+430,2012,Sweden,SE,Percentage,Total,27
+431,2012,Sweden,SE,Percentage,Males,20.3
+432,2012,Sweden,SE,Percentage,Females,33.9
+544,2013,Sweden,SE,Percentage,Total,28.4
+545,2013,Sweden,SE,Percentage,Males,21.5
+546,2013,Sweden,SE,Percentage,Females,35.5
+658,2014,Sweden,SE,Percentage,Total,29.2
+659,2014,Sweden,SE,Percentage,Males,22.3
+660,2014,Sweden,SE,Percentage,Females,36.3
+772,2015,Sweden,SE,Percentage,Total,29.4
+773,2015,Sweden,SE,Percentage,Males,22.3
+774,2015,Sweden,SE,Percentage,Females,36.7
+886,2016,Sweden,SE,Percentage,Total,29.6
+887,2016,Sweden,SE,Percentage,Males,22.7
+888,2016,Sweden,SE,Percentage,Females,36.7
+1000,2017,Sweden,SE,Percentage,Total,30.4
+1001,2017,Sweden,SE,Percentage,Males,23.7
+1002,2017,Sweden,SE,Percentage,Females,37.5
+1114,2018,Sweden,SE,Percentage,Total,29.2
+1115,2018,Sweden,SE,Percentage,Males,22.4
+1116,2018,Sweden,SE,Percentage,Females,36.1
+100,2009,Switzerland,CH,Percentage,Total,23.9
+101,2009,Switzerland,CH,Percentage,Males,22.8
+102,2009,Switzerland,CH,Percentage,Females,25
+214,2010,Switzerland,CH,Percentage,Total,29.7
+215,2010,Switzerland,CH,Percentage,Males,30.6
+216,2010,Switzerland,CH,Percentage,Females,28.8
+328,2011,Switzerland,CH,Percentage,Total,28.9
+329,2011,Switzerland,CH,Percentage,Males,30
+330,2011,Switzerland,CH,Percentage,Females,27.9
+442,2012,Switzerland,CH,Percentage,Total,29.1
+443,2012,Switzerland,CH,Percentage,Males,30.1
+444,2012,Switzerland,CH,Percentage,Females,28
+556,2013,Switzerland,CH,Percentage,Total,29.3
+557,2013,Switzerland,CH,Percentage,Males,30
+558,2013,Switzerland,CH,Percentage,Females,28.7
+670,2014,Switzerland,CH,Percentage,Total,30.5
+671,2014,Switzerland,CH,Percentage,Males,30.8
+672,2014,Switzerland,CH,Percentage,Females,30.3
+784,2015,Switzerland,CH,Percentage,Total,30.8
+785,2015,Switzerland,CH,Percentage,Males,31.5
+786,2015,Switzerland,CH,Percentage,Females,30.2
+898,2016,Switzerland,CH,Percentage,Total,31.4
+899,2016,Switzerland,CH,Percentage,Males,31.7
+900,2016,Switzerland,CH,Percentage,Females,31.1
+1012,2017,Switzerland,CH,Percentage,Total,31.2
+1013,2017,Switzerland,CH,Percentage,Males,31.9
+1014,2017,Switzerland,CH,Percentage,Females,30.5
+1126,2018,Switzerland,CH,Percentage,Total,31.6
+1127,2018,Switzerland,CH,Percentage,Males,32.4
+1128,2018,Switzerland,CH,Percentage,Females,30.9
+112,2009,Turkey,TR,Percentage,Total,2.6
+113,2009,Turkey,TR,Percentage,Males,2.8
+114,2009,Turkey,TR,Percentage,Females,2.4
+226,2010,Turkey,TR,Percentage,Total,2.9
+227,2010,Turkey,TR,Percentage,Males,3.1
+228,2010,Turkey,TR,Percentage,Females,2.8
+340,2011,Turkey,TR,Percentage,Total,3.4
+341,2011,Turkey,TR,Percentage,Males,3.5
+342,2011,Turkey,TR,Percentage,Females,3.2
+454,2012,Turkey,TR,Percentage,Total,3.9
+455,2012,Turkey,TR,Percentage,Males,4
+456,2012,Turkey,TR,Percentage,Females,3.8
+568,2013,Turkey,TR,Percentage,Total,4.5
+569,2013,Turkey,TR,Percentage,Males,4.6
+570,2013,Turkey,TR,Percentage,Females,4.5
+682,2014,Turkey,TR,Percentage,Total,5.7
+683,2014,Turkey,TR,Percentage,Males,5.8
+684,2014,Turkey,TR,Percentage,Females,5.5
+796,2015,Turkey,TR,Percentage,Total,5.5
+797,2015,Turkey,TR,Percentage,Males,5.6
+798,2015,Turkey,TR,Percentage,Females,5.3
+910,2016,Turkey,TR,Percentage,Total,5.8
+911,2016,Turkey,TR,Percentage,Males,6
+912,2016,Turkey,TR,Percentage,Females,5.6
+1024,2017,Turkey,TR,Percentage,Total,5.8
+1025,2017,Turkey,TR,Percentage,Males,6.1
+1026,2017,Turkey,TR,Percentage,Females,5.6
+1138,2018,Turkey,TR,Percentage,Total,6.2
+1139,2018,Turkey,TR,Percentage,Males,6.3
+1140,2018,Turkey,TR,Percentage,Females,6
+91,2009,United Kingdom,UK,Percentage,Total,20.7
+92,2009,United Kingdom,UK,Percentage,Males,17.2
+93,2009,United Kingdom,UK,Percentage,Females,24.1
+205,2010,United Kingdom,UK,Percentage,Total,20.1
+206,2010,United Kingdom,UK,Percentage,Males,16.9
+207,2010,United Kingdom,UK,Percentage,Females,23.3
+319,2011,United Kingdom,UK,Percentage,Total,16.3
+320,2011,United Kingdom,UK,Percentage,Males,14.4
+321,2011,United Kingdom,UK,Percentage,Females,18.2
+433,2012,United Kingdom,UK,Percentage,Total,16.3
+434,2012,United Kingdom,UK,Percentage,Males,14.6
+435,2012,United Kingdom,UK,Percentage,Females,18
+547,2013,United Kingdom,UK,Percentage,Total,16.6
+548,2013,United Kingdom,UK,Percentage,Males,15
+549,2013,United Kingdom,UK,Percentage,Females,18.3
+661,2014,United Kingdom,UK,Percentage,Total,16.3
+662,2014,United Kingdom,UK,Percentage,Males,14.6
+663,2014,United Kingdom,UK,Percentage,Females,18
+775,2015,United Kingdom,UK,Percentage,Total,15.7
+776,2015,United Kingdom,UK,Percentage,Males,13.9
+777,2015,United Kingdom,UK,Percentage,Females,17.5
+889,2016,United Kingdom,UK,Percentage,Total,14.4
+890,2016,United Kingdom,UK,Percentage,Males,13
+891,2016,United Kingdom,UK,Percentage,Females,15.8
+1003,2017,United Kingdom,UK,Percentage,Total,14.3
+1004,2017,United Kingdom,UK,Percentage,Males,12.9
+1005,2017,United Kingdom,UK,Percentage,Females,15.8
+1117,2018,United Kingdom,UK,Percentage,Total,14.6
+1118,2018,United Kingdom,UK,Percentage,Males,12.9
+1119,2018,United Kingdom,UK,Percentage,Females,16.2

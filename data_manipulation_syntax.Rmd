@@ -48,7 +48,7 @@ Example: summarise unemployment rate in 2018
 
 ```{r}
 # Extract unemployment rates
-unempl2018  = 100-EMP$`2018`
+unempl2018  = 100 - EMP$Y2018
 summary(unempl2018)
 
 # Base R - chaining
@@ -71,12 +71,13 @@ unempl2018 %>%
 unempl2018 %>% log(2) %>% quantile(.25, na.rm = TRUE) %>% round(1) %>% paste("Result:",.)
 ```
 
-Create a table of relative frequencies, sorted by descending:
+EXERCISE: Create a table of relative frequencies, sorted by descending:
 ```{r}
-table(TRAIN$SEX)
 #Base R:
-
 cbind(round(rev(sort(prop.table(table(TRAIN$SEX)))),2))
+
+#Translate code above using piping:
+
 ```
 
 ```{r}
@@ -98,6 +99,7 @@ EMP
 TRAIN = read_csv("training_participation.csv")
 TRAIN
 ```
+
 
 ## Slice and filter
 
@@ -134,9 +136,9 @@ TRAIN %>% filter(grepl("^C",GEO))
 TRAIN %>% filter(GEO %in% c("Slovakia","Slovenia"))
 ```
 
-EXERCISE: select
+EXERCISE: select only data from 2018 and 2019 from Romania - total and save in new variable FILT
 ```{r}
-TRAIN %>% filter()
+#FILT = TRAIN %>% filter(insert_conditions_here)
 ```
 
 ## Subset variables/columns - select
@@ -155,6 +157,8 @@ EMP %>% select(unit, sex, age)
 EMP %>% select(unit:age)
 ```
 
+Can also use helper functions (starts_with, one_of, contains)
+
 ```{r}
 ### select by skipping
 EMP %>% select(geo, age, sex, Y2016:Y2018)
@@ -166,10 +170,9 @@ EMP %>% select(-unit)
 EMP %>% select(starts_with("Y"))
 ```
 
-EXERCISE: select 
-
+EXERCISE: select from TRAIN only year, 2-letter country code, sex and value and save in new variable SEL
 ```{r}
-TRAIN %>% select()
+#SEL = TRAIN %>% select(your_selection_here)
 ```
 
 
@@ -212,8 +215,7 @@ TRAIN %>% mutate_if(is.character, as.factor)
 ### Change specific variables
 ## mutate_at(vars(), funs())
 # e.g. round all Y variables
-EMP %>% mutate_at(vars(Y2007:Y2018), funs(as.numeric)) %>%
-        mutate_at(vars(Y2007:Y2018), funs(round))
+EMP %>% mutate_at(vars(Y2007:Y2018), funs(round))
 ```
 
 
@@ -224,18 +226,93 @@ Mutate_all replaces sapply or tapply
 
 ## apply predefined function
 TRAIN %>% mutate_all(nchar)
+
 ## apply custom function
 TRAIN %>% mutate_all(function(x) paste0(x,"_suffix"))
 ```
 
 
+EXERCISE: 
+Use the piping operator and dplyr functions to
+select from EMP the following variables: sex, geo and Y2017 and Y2018,
+filter only cases from Austria, 
+create new variable eployment_change as the difference between employment rates in 2018 and 2017
+and save in new data frame called NEW
+```{r}
+#NEW = TRAIN %>% add_code_here
+```
+
+
+
 ## Aggregate data
+
+Let us select from EMP for each gender the median training participation level
+
+```{r}
+### Base R 
+aggregate(Value ~ SEX, data = TRAIN, FUN = median)
+
+### dplyr 
+TRAIN  %>% group_by(SEX) %>% 
+           summarise(training_median = median(Value, na.rm = TRUE))
+```
+
+Advantage of dplyr is that multiple summaries can be created in the same syntax
+
+```{r}
+### get mean, median and standard deviation for each gender
+TRAIN_AGG = TRAIN  %>% 
+            group_by(SEX) %>% 
+            summarise(tr_median = median(Value, na.rm = TRUE),
+                      tr_mean = mean(Value, na.rm = TRUE),
+                      tr_sd = sd(Value, na.rm = TRUE))
+TRAIN_AGG
+```
+
+Can also group by multiple variables.
+Example: get mean and standard deviation by gender and year
+
+```{r}
+TRAIN  %>% group_by(TIME, SEX)
+TRAIN_AGG2 =TRAIN  %>% 
+            group_by(TIME, SEX) %>% 
+            summarise(tr_median = median(Value, na.rm = TRUE),
+                      tr_mean = mean(Value, na.rm = TRUE),
+                      tr_sd = sd(Value, na.rm = TRUE))
+TRAIN_AGG2
+# This is a tidy dataset!
+```
+
+Add aggregate variable to non-aggregated dataset
+Example: average training per country
+
+```{r}
+TRAIN2 = TRAIN %>% 
+         filter(SEX == "Total") %>% 
+         group_by(COUNTRY) %>% 
+         mutate(avg_train = mean(Value)) %>% 
+         ungroup() %>% 
+         mutate(dif_from_avg = Value - avg_train) 
+#in last command we compute the difference in percentages from average country value
+TRAIN2
+```
+
+EXERCISE: 
+From TRAIN dataset calculate the average training level per country, 
+then rank them by the aggregated value using the function arrange().
+What is the country with the highest average training level?
+```{r}
+#TRAIN %>% group_by(add_value) %>% summarise(add_value) %>% arrange(add_value)
+```
+
+
+## Reshape datasets
+
+Separate columns
 
 ```{r}
 
 ```
-
-## Reshape datasets
 
 From wide to long format
 

@@ -86,21 +86,6 @@ cbind(round(rev(sort(prop.table(table(TRAIN$SEX)))),2))
 ```
 
 
-## IMPORT DATA
-
-Read data as a tibble, using read_csv or read_tsv.
-
-```{r cars}
-EMP = read_tsv("empl_rates_reg.tsv")
-EMP
-```
-
-```{r}
-TRAIN = read_csv("training_participation.csv")
-TRAIN
-```
-
-
 ## Slice and filter
 
 Slice
@@ -283,7 +268,7 @@ TRAIN_AGG2
 # This is a tidy dataset!
 ```
 
-Add aggregate variable to non-aggregated dataset
+Add aggregate variable to non-aggregated dataset.
 Example: average training per country
 
 ```{r}
@@ -309,34 +294,66 @@ What is the country with the highest average training level?
 ## Reshape datasets
 
 Separate columns
+In EMP, var geo contains both country and region
 
 ```{r}
-
+EMP2 = EMP %>% separate(geo, into = c("COUNTRY","region"), sep="_")
+EMP2
 ```
 
 From wide to long format
+Gather all Y variables
 
 ```{r}
-
+# give new names for key and value
+EMP_LONG = EMP2 %>% 
+           select(COUNTRY, region, sex, contains("Y")) %>% 
+           gather(key = year,
+                  value = perc,
+                  -COUNTRY, -region, -sex) %>% 
+           mutate(year = as.numeric(substr(year, 2,5)))
+EMP_LONG
 ```
 
-From wide to long format
-
-Separate 
+From long to wide format
+Useful to create crosstabs 
 
 ```{r}
-
+# you should keep only the necessary variables
+TRAIN %>% select(TIME, COUNTRY, SEX, Value) %>% 
+          spread(key = SEX,
+                 value = Value)
 ```
 
 ## Combine/merge datasets
 
-Similar to SQL functions
+First let us bring the datasets at the same level
 
 ```{r}
-
+EMP_2018 = EMP_LONG %>% filter(year == 2018, sex == "T") %>% select(COUNTRY, region, empl_perc = perc)
+TRAIN_2018 = TRAIN %>% filter(SEX == "Total", TIME == 2018) %>% select(COUNTRY, training_perc = Value)
+EMP_2018 
+TRAIN_2018
 ```
 
-## All-in-one pipe
+Left join keeps all values in data frame on the left
+
+
+```{r}
+LEFT_UNITE = left_join(EMP_2018, TRAIN_2018) %>% 
+             mutate_if(is.character, as.factor)
+summary(LEFT_UNITE)
+```
+
+Inner join keeps values that appear in both data frames
+```{r}
+INNER_UNITE = inner_join(EMP_2018, TRAIN_2018) %>% 
+             mutate_if(is.character, as.factor)
+summary(INNER_UNITE)
+```
+
+
+## Your data here
 
 ```{r}
 
